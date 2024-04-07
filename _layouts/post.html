@@ -43,7 +43,10 @@ post_class: post-template
 				{% assign reading_time = words | plus: 150 | divided_by: 150 %}
 				<div class="article-info">
 					<p class="author-info">Written by <a href="#author-box">{{ author.display_name }}</a> on {{ page.date | date_to_long_string }} | Reading time: {{ reading_time }} minutes</p>
+					
 				</div>
+				
+			
 
 			<!-- Post Content -->
 			<div class="article-post serif-font">
@@ -59,6 +62,9 @@ post_class: post-template
                 (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                 {% endif %}
                 </small>
+				<p>
+				{% include share-buttons.html %}
+				</p>
             </p>
             
 			
