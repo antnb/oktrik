@@ -1,4 +1,4 @@
-title: "Affiliates"
+title: "Oktrik"
 email: wowthemesnet@gmail.com
 timezone: UTC
 baseurl: ""
@@ -20,7 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: UA-160052565-1
 
 # Authors
 authors:
@@ -35,9 +35,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  linktr: https://linktr.ee/oktrik
+  facebook: https://www.facebook.com/oktrikcom/
+  youtube: https://www.facebook.com/oktrikcom/
 
 # Plugins
 plugins: 
