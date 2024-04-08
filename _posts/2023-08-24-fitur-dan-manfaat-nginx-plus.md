@@ -5,7 +5,7 @@ date: '2023-08-24T09:39:00.003+07:00'
 author: rosari J
 tags:
 - webmaster
-modified_time: '2023-08-24T09:39:35.374+07:00'
+modification_time: '2023-08-24T09:39:35.374+07:00'
 image: media/Nginx-Plus.jpg
 blogger_orig_url: https://www.oktrik.com/2023/08/fitur-dan-manfaat-nginx-plus.html
 ---

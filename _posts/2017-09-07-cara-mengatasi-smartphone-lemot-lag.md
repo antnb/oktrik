@@ -7,7 +7,7 @@ tags:
 - ram
 - memory
 - smartphone
-modified_time: '2022-10-18T15:33:24.612+07:00'
+modification_time: '2022-10-18T15:33:24.612+07:00'
 image: media/ram-1-800x500.jpg
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-1056219348507276373
 blogger_orig_url: https://www.oktrik.com/2017/09/cara-mengatasi-smartphone-lemot-lag.html

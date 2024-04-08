@@ -5,7 +5,7 @@ date: '2023-08-23T22:57:00.003+07:00'
 author: rosari J
 tags:
 - webmaster
-modified_time: '2023-08-24T09:40:34.786+07:00'
+modification_time: '2023-08-24T09:40:34.786+07:00'
 image: media/nginx.jpg
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-6347659798850486738
 blogger_orig_url: https://www.oktrik.com/2023/08/perbedaan-mendasar-antar-apache-dan.html

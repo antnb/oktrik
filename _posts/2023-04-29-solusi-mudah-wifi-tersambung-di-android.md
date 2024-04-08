@@ -6,7 +6,7 @@ author: rosari J
 tags:
 - teknologi
 - internet
-modified_time: '2023-05-06T07:27:57.673+07:00'
+modification_time: '2023-05-06T07:27:57.673+07:00'
 image: media/wifi.jpg
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-6918535637350453875
 blogger_orig_url: https://www.oktrik.com/2023/04/solusi-mudah-wifi-tersambung-di-android.html

@@ -6,7 +6,7 @@ date: '2023-04-02T21:26:00.004+07:00'
 author: rosari J
 tags:
 - android
-modified_time: '2023-05-06T07:28:45.233+07:00'
+modification_time: '2023-05-06T07:28:45.233+07:00'
 image: media/lock2.jpg
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-2106412269664511771
 blogger_orig_url: https://www.oktrik.com/2023/04/panduan-lengkap-cara-menyiapkan.html

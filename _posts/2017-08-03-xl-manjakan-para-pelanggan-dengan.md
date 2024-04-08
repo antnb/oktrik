@@ -8,7 +8,7 @@ tags:
 - gsm
 - internet
 - proxl
-modified_time: '2022-07-10T18:34:31.211+07:00'
+modification_time: '2022-07-10T18:34:31.211+07:00'
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-8733388446703753164
 blogger_orig_url: https://www.oktrik.com/2017/08/xl-manjakan-para-pelanggan-dengan.html
 ---

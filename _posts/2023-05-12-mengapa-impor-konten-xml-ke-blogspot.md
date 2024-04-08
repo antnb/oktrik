@@ -6,7 +6,7 @@ author: rosari J
 tags:
 - Tips dan Trik
 - blogging
-modified_time: '2023-05-12T05:55:55.979+07:00'
+modification_time: '2023-05-12T05:55:55.979+07:00'
 image: media/blogspot.jpg
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-1682484206515785782
 blogger_orig_url: https://www.oktrik.com/2023/05/mengapa-impor-konten-xml-ke-blogspot.html
