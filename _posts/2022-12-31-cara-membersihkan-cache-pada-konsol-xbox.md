@@ -7,6 +7,7 @@ tags:
 - teknologi
 - gaming
 modification_time: '2023-05-06T07:49:26.749+07:00'
+image: media/box.jpg
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-5830573941939294202
 blogger_orig_url: https://www.oktrik.com/2022/12/cara-membersihkan-cache-pada-konsol-xbox.html
 ---
@@ -20,8 +21,6 @@ Selain itu, data sampah yang disimpan dapat dihapus, sehingga konsol Anda akan m
 Xbox overview
 -------------
 
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm1fJyqFizEk7Sy1tOFwdYIJGw02tugn5_sqhnBkR8X0AY0k28VeEXnUZyhrat4oTMPFkUEe_kXQyEMDTfVY6U62SCWjXOfkmV4oksKZLgOF1ciTEkkKS-ZBHWfVEzHEQvl0JJoA4bvbJkDhQppGB-WqF-S9P5Pd6HlQSlGVLkz0WWbm3kGDsZLUEhxQ/s600/box.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm1fJyqFizEk7Sy1tOFwdYIJGw02tugn5_sqhnBkR8X0AY0k28VeEXnUZyhrat4oTMPFkUEe_kXQyEMDTfVY6U62SCWjXOfkmV4oksKZLgOF1ciTEkkKS-ZBHWfVEzHEQvl0JJoA4bvbJkDhQppGB-WqF-S9P5Pd6HlQSlGVLkz0WWbm3kGDsZLUEhxQ/s2133/box.jpg)
 Pada 15 November 2001, Microsoft meluncurkan Xbox, sebuah merek video game yang mengubah industri dunia. Xbox telah berhasil membawa inovasi yang luar biasa dengan menghadirkan tiga generasi konsol game video, yang memiliki beragam permainan yang menarik dan menyenangkan. Selain itu, Xbox juga menawarkan layanan streaming, serta layanan online bernama Xbox Live. Dengan semua inovasi ini, Xbox telah berhasil menjadi salah satu merek game video terbesar di industri game dunia.
 
 
