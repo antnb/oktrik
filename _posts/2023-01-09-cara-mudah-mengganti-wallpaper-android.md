@@ -6,6 +6,7 @@ author: rosari J
 tags:
 - android
 modification_time: '2023-01-09T12:19:42.930+07:00'
+image: media/wallpaper.jpg
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-7389164098038037834
 blogger_orig_url: https://www.oktrik.com/2023/01/cara-mudah-mengganti-wallpaper-android.html
 ---
@@ -25,8 +26,6 @@ Pengguna Android tidak lagi perlu menghabiskan banyak waktu dan usaha untuk meng
 Mengatur Sumber Gambar Wallpaper
 --------------------------------
 
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9dWQfVlJgXp-LHQnYOQFwawsJws6EGrr6cZsasRZ5VFD5rSrYyj2Jbzk01ILjZOukOR7W8Mly8FmazVzIz1VbKWM2FljzKkYLTdG37fsA7L4htuMsD6coR5zO0CN8-Z6Ap3pP7do3HoQt5hWB1_45zVRm_QZJ4OiAjM20n-VTL1_yCFVuWUn4NgCM_g/s600/wallpaper.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9dWQfVlJgXp-LHQnYOQFwawsJws6EGrr6cZsasRZ5VFD5rSrYyj2Jbzk01ILjZOukOR7W8Mly8FmazVzIz1VbKWM2FljzKkYLTdG37fsA7L4htuMsD6coR5zO0CN8-Z6Ap3pP7do3HoQt5hWB1_45zVRm_QZJ4OiAjM20n-VTL1_yCFVuWUn4NgCM_g/s1760/wallpaper.jpg)
 Agar Anda dapat menggunakan Aplikasi Wallpaper Changer di Android, langkah pertama yang harus Anda lakukan adalah mengunduh dan menginstal aplikasi tersebut dari [Play Store](https://play.google.com/store/apps/details?id=de.j4velin.wallpaperChanger&pli=1). Setelah aplikasi terinstal, jalankan aplikasi tersebut. Untuk menggunakan aplikasi, Anda harus memasukkan beberapa wallpaper terlebih dahulu.
 
 
@@ -37,6 +36,7 @@ Setelah itu, Anda dapat memilih antara dua opsi yaitu Add image dan Add folder. 
 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHXNqO-kqqbSYi2dZvNeLQq1bLnJsocRFFx4gwsNpGmLRIpbf_0HFcBzxfKd3p0_c-hZJIeK4rjgCMfdn3hxvRNqSGsiVUv1tUUNsvPSkvZwldPtD_jw8oHGDKD84qKbHj1CApYu7N54drMnobZ3Lh78uYau8FjpwepB6TF1HMTkfMPYw10F56Riz8Jg/s600/unnamed2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHXNqO-kqqbSYi2dZvNeLQq1bLnJsocRFFx4gwsNpGmLRIpbf_0HFcBzxfKd3p0_c-hZJIeK4rjgCMfdn3hxvRNqSGsiVUv1tUUNsvPSkvZwldPtD_jw8oHGDKD84qKbHj1CApYu7N54drMnobZ3Lh78uYau8FjpwepB6TF1HMTkfMPYw10F56Riz8Jg/s1200/unnamed2.jpg)
+
 Ketika Anda memilih salah satu opsi, Anda akan diminta untuk membuka galeri perangkat Anda di mana Anda akan memilih gambar atau folder keseluruhan. Namun, jika Anda tidak dapat memotong gambar di komputer Anda, Anda dapat memilih opsi Add cropped image untuk memotong gambar dan menambahkannya secara individual. Meskipun demikian, proses ini akan memakan waktu lebih lama dibandingkan dua opsi sebelumnya.
 
 
@@ -48,6 +48,7 @@ Seting Mengganti Wallpaper Secara Otomatis
 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyqV9VXPLc-8k_LH3WGNdKZFxSq-06bodu6d8Oudfv_LeEDNcPlddza9Ai614uhEca2CMUSWofOPNUwzF37Gnoh4Av025Jx4gihjcHZNeKdwnJoI1lNW6vjDTjKaBBkNTCBEPcRuzi_XeCs41n1KB6OBcj70QaYcQ9HhWJVV7ve4DOo6l38efcsSwcDg/s600/unnamed3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyqV9VXPLc-8k_LH3WGNdKZFxSq-06bodu6d8Oudfv_LeEDNcPlddza9Ai614uhEca2CMUSWofOPNUwzF37Gnoh4Av025Jx4gihjcHZNeKdwnJoI1lNW6vjDTjKaBBkNTCBEPcRuzi_XeCs41n1KB6OBcj70QaYcQ9HhWJVV7ve4DOo6l38efcsSwcDg/s1920/unnamed3.jpg)
+
 Aplikasi ini memungkinkan Anda untuk mengubah wallpaper secara otomatis. Ada tiga cara untuk menggunakan aplikasi ini.
 
 

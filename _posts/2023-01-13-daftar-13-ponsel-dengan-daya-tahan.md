@@ -6,6 +6,7 @@ author: rosari J
 tags:
 - teknologi
 - gadget
+image: media/battery.jpg
 modification_time: '2023-05-06T07:31:45.963+07:00'
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-5277861989037387625
 blogger_orig_url: https://www.oktrik.com/2023/01/daftar-13-ponsel-dengan-daya-tahan.html
@@ -20,8 +21,6 @@ Meskipun ponsel budget biasanya menunjukkan performa yang sangat baik dalam hal 
 Faktor yang memperngaruhi umur baterai smartphone
 -------------------------------------------------
 
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimxWcbwSAUrmYzzIU2nvqCFzyvVpVhDQ29BKXlzoD5XUqupzSLvjtf-0HimhVBuDKZBeMPcuCfSrzPhgUR0v41rXCG1y7ho5xgFqNzeIkYqgX8Xs_pcLeFqsK0gHliZdTzwwsk72jkusrH1Hd9-Iaq9x_I0uLZo8MOuZ76hQUCp2hBkQbseEKvJcXhdQ/s600/battery.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimxWcbwSAUrmYzzIU2nvqCFzyvVpVhDQ29BKXlzoD5XUqupzSLvjtf-0HimhVBuDKZBeMPcuCfSrzPhgUR0v41rXCG1y7ho5xgFqNzeIkYqgX8Xs_pcLeFqsK0gHliZdTzwwsk72jkusrH1Hd9-Iaq9x_I0uLZo8MOuZ76hQUCp2hBkQbseEKvJcXhdQ/s2133/battery.jpg)
 Usia baterai ponsel Android dapat dipengaruhi oleh berbagai faktor, seperti kualitas penggunaan, jenis aplikasi yang terinstal, kondisi iklim, serta usia ponsel itu sendiri. Penggunaan yang berlebihan, aplikasi yang membutuhkan daya yang besar, suhu lingkungan yang tinggi, serta ponsel yang telah lama menggunakannya, dapat berdampak signifikan terhadap umur baterai.
 
 

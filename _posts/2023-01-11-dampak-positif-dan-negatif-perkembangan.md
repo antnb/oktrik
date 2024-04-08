@@ -6,6 +6,7 @@ author: rosari J
 tags:
 - teknologi
 modification_time: '2023-01-11T19:53:25.404+07:00'
+image: media/tech.jpg
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-3104313054102310292
 blogger_orig_url: https://www.oktrik.com/2023/01/dampak-positif-dan-negatif-perkembangan.html
 ---
@@ -22,8 +23,6 @@ Hal Ini meliputi masalah privasi, seperti kebocoran data dan pencurian identitas
 Kejahatan Cyber
 ---------------
 
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvMBcPtgTxhht-vxdANFz-mdnMiAZ36qP7bu8zr2dzlqzgJgSXrnFLdkq5cZzQDFInetHTC_bPLftgdXuRPQ0BbSgY8HDTF6AwgGi0yk-aW1cfOyObKOiX4bSeEcQT8EhYjt_oYELnVHz3xFnh43wjQmOJ3W3C-BAC83nue4CAWlq4JBqOLuCp0DQE3g/s600/tech.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvMBcPtgTxhht-vxdANFz-mdnMiAZ36qP7bu8zr2dzlqzgJgSXrnFLdkq5cZzQDFInetHTC_bPLftgdXuRPQ0BbSgY8HDTF6AwgGi0yk-aW1cfOyObKOiX4bSeEcQT8EhYjt_oYELnVHz3xFnh43wjQmOJ3W3C-BAC83nue4CAWlq4JBqOLuCp0DQE3g/s2133/tech.jpg)
 Kejahatan cyber meliputi berbagai macam aktivitas ilegal, mulai dari hacking dan pencurian kartu kredit/debit hingga instalasi malware, ancaman melalui email, phishing, spam, serta pencurian kartu ATM.
 
 
@@ -58,6 +57,7 @@ Manfaat Teknologi
 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUAYIGcJn9XBVd-09pw_okcLh8PjYV6VRDFwyPj6p7SUvTkXfSGRvQAfiPTJhJimK1bH5Dkpkss7J9MnNBLJBiTvjppqTbJcBTXlRoVQdQW50WCExkAEUXn6f4h61ZJGgLE5mXi3XHkcE_FEBMLRZqW1lg65HLFqbPyPK__kA9f5g-wxKklyr5YkP67A/s600/techno.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUAYIGcJn9XBVd-09pw_okcLh8PjYV6VRDFwyPj6p7SUvTkXfSGRvQAfiPTJhJimK1bH5Dkpkss7J9MnNBLJBiTvjppqTbJcBTXlRoVQdQW50WCExkAEUXn6f4h61ZJGgLE5mXi3XHkcE_FEBMLRZqW1lg65HLFqbPyPK__kA9f5g-wxKklyr5YkP67A/s2133/techno.jpg)
+
 Teknologi telah menjadi merata dalam kehidupan sehari-hari kita dan penggunaannya hanya diharapkan akan bertumbuh di masa depan. Meskipun dapat digunakan untuk meningkatkan kualitas hidup, ia juga dapat menimbulkan dampak negatif tergantung pada bagaimana ia digunakan.
 
 
