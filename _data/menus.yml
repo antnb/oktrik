@@ -28,3 +28,6 @@ footermenu:
 
 - title: disclaimer
   url: "disclaimer"
+  
+- title: terms
+  url: "terms"
