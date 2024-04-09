@@ -5,21 +5,19 @@ background: '/img/bg-index.jpg'
 ---
 
 <!-- Home Intro
-================================================== -->
-{% if page.url == "/" %} 
+================================================== --> 
+{% if page.url == "/" %}
 <div class="rounded mb-5 hero">
-  <div class="row align-items-center justify-content-between">
-    <div class="col-md-6">
-      <h1 class="font-weight-bold mb-4 serif-font">Let me  teach you how to become successful online</h1>
-      <p class="lead mb-4">My name is Lyam and I'm here to share with you my knowledge and experience of over 10 years of monetizing my blog.</p>
-      <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a>
-    </div>
-    <div class="col-md-6 text-right pl-0 pl-lg-4">
-      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/intro.svg">      
+  <div class="row align-items-center justify-content-center text-center">
+    <div class="col-md-12">
+      <h1 class="font-weight-bold mb-3 serif-font">Selamat Datang di OKTRIK</h1>
+      <p class="lead mb-3">Sumber informasi teknologi yang andal untuk meningkatkan pemahaman Anda tentang dunia teknologi.</p>
+      <a href="#articl" class="btn btn-dark text-white px-4 btn-lg">Baca Artikel</a>
     </div>
   </div>
 </div>
 {% endif %}
+
 
 <!-- Featured
 ================================================== -->
@@ -36,7 +34,7 @@ background: '/img/bg-index.jpg'
 
 <!-- Posts List with Sidebar (except featured)
 ================================================== -->
-<section class="row">
+<section id="articl" class="row">
   <div class="col-sm-8">
     <div class="row">
       {% for post in paginator.posts %}

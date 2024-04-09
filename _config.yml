@@ -3,10 +3,10 @@ email: info@oktrik.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title"
-logo: 'assets/images/gamb.jpeg'
+logo: 'assets/images/logo.png'
 favicon: 'assets/favicon.ico'
 author: rosari J
-paginate: 30
+paginate: 5
 disqus: 'demowebsite'
 locale: id_ID
 lang: id_ID
