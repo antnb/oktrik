@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Jaringan & Internet
 title: Perbedaan Mendasar Antara Apache dan NGINX dalam Dunia Server Web
 date: '2023-08-23T22:57:00.003+07:00'
 author: rosari J

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: XL Manjakan Para Pelanggan Dengan Luncurkan Internet Berkecepatan Tinggi
+categories: Internet & Komunikasi
 date: '2017-08-03T18:32:00.002+07:00'
 author: rosari J
 image: media/xl-1-800x500.jpg
