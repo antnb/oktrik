@@ -2,7 +2,7 @@ title: "Oktrik"
 email: info@oktrik.com
 timezone: UTC
 baseurl: ""
-permalink: "/:title"
+permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/favicon.ico'
 author: rosari J

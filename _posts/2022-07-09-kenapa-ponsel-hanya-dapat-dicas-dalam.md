@@ -13,88 +13,73 @@ blogger_orig_url: https://www.oktrik.com/2022/07/kenapa-ponsel-hanya-dapat-dicas
 
 Kamu sedang asyik berbincang dengan temanmu atau menonton film di layar ponselmu, tetapi batre hanya tinggal 3%. Anda harus mengisi daya batere segera, tetapi saat kabel charging di colokkan pada port pengisian daya, ponselmu tidak bisa diisi daya.
 
+Pengisian daya hanya bisa dilakukan saat ponsel dalam keadaan mati total. Hal ini tentu sangat **menjengkelkan** dan timbul pertanyaan, Kenapa hp tidak bisa di cas saat keadaan hidup?
 
-Pengisian daya hanya bisa dilakukan saat ponsel dalam keadaan mati total. Hal ini tentu sangat menjengkelkan dan timbul pertanyaan, Kenapa hp tidak bisa di cas saat keadaan hidup?
+Hal ini dapat sangat **menjengkelkan**, terutama jika Anda membutuhkan ponsel untuk segera digunakan. Meskipun masalah ini sering terjadi, ada beberapa hal yang dapat Anda lakukan untuk memperbaikinya.
 
+Salah satu penyebab utama kenapa hp tidak bisa di cas saat keadaan hidup adalah **baterai ponsel yang sudah melemah**. Baterai yang sudah melemah akan mengalami kesulitan dalam menjaga daya saat digunakan dan mengisi daya saat di cas.
 
-Hal ini dapat sangat menjengkelkan, terutama jika Anda membutuhkan ponsel untuk segera digunakan. Meskipun masalah ini sering terjadi, ada beberapa hal yang dapat Anda lakukan untuk memperbaikinya.
+Baterai ponsel yang melemah bisa disebabkan oleh **penggunaan yang berlebihan**, pengisian daya yang tidak benar, atau **usia baterai yang sudah lama**.
 
-
-Salah satu penyebab utama kenapa hp tidak bisa di cas saat keadaan hidup adalah baterai ponsel yang sudah melemah. Baterai yang sudah melemah akan mengalami kesulitan dalam menjaga daya saat digunakan dan mengisi daya saat di cas.
-
-
-Baterai ponsel yang melemah bisa disebabkan oleh penggunaan yang berlebihan, pengisian daya yang tidak benar, atau usia baterai yang sudah lama.
+Penyebab kenapa hp tidak bisa di cas bisa disebabkan oleh berbagai faktor, Dan pada artikel ini kita akan membahas **penyebab dan solusi baterai hp yang tidak mengisi**.
 
 
-Penyebab kenapa hp tidak bisa di cas bisa disebabkan oleh berbagai faktor, Dan pada artikel ini kita akan membahas penyebab dan solusi baterai hp yang tidak mengisi.
 
+# Solusi untuk Masalah Baterai Lemah dan Kompatibilitas Baterai dengan Sistem Pengisian
 
-Solusi untuk Masalah Baterai Lemah dan Kompatibilitas Baterai dengan Sistem Pengisian
--------------------------------------------------------------------------------------
+[![gambar ponsel yang sedang diperiksa kondisi baterainya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcN_2BQVhGA8mFm4jOimSK6jfT8rGdxpyqx7OGx88JtlttA0UCihxqdTNqrQgasBwHAf2EA3Ia_s_NGIcpfNHEvedZj33nB7UvusMbmr8aJc322pL3d0V1NedJo387fRqkcX3wO2zirpy2gOFqL0as-KPRktOT70PgGoIGJIe1EWuveYOyj-iU1Ykq5g/s1511/battery-charging-android.webp "gambar baterai ponsel yang sudah rusak")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcN_2BQVhGA8mFm4jOimSK6jfT8rGdxpyqx7OGx88JtlttA0UCihxqdTNqrQgasBwHAf2EA3Ia_s_NGIcpfNHEvedZj33nB7UvusMbmr8aJc322pL3d0V1NedJo387fRqkcX3wO2zirpy2gOFqL0as-KPRktOT70PgGoIGJIe1EWuveYOyj-iU1Ykq5g/s1511/battery-charging-android.webp)
 
+Solusi untuk mengatasi masalah baterai yang sudah lemah adalah dengan melakukan **restart** pada ponsel, membersihkan **port pengisian**, menggunakan kabel atau adapter yang berbeda, memastikan daya listrik dari stop kontak yang digunakan normal, memeriksa level dan kondisi baterai, menonaktifkan aplikasi atau fitur yang memakan daya, memperbarui software ponsel, memeriksa ada tidaknya kerusakan fisik atau kerusakan akibat cairan, memeriksa masalah software dan jika diperlukan mengganti baterai yang sudah lemah atau rusak.
 
-[![gambar ponsel yang sedang diperiksa kondisi baterainya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcN_2BQVhGA8mFm4jOimSK6jfT8rGdxpyqx7OGx88JtlttA0UCihxqdTNqrQgasBwHAf2EA3Ia_s_NGIcpfNHEvedZj33nB7UvusMbmr8aJc322pL3d0V1NedJo387fRqkcX3wO2zirpy2gOFqL0as-KPRktOT70PgGoIGJIe1EWuveYOyj-iU1Ykq5g/w640-h361/battery-charging-android.webp "gambar baterai ponsel yang sudah rusak")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcN_2BQVhGA8mFm4jOimSK6jfT8rGdxpyqx7OGx88JtlttA0UCihxqdTNqrQgasBwHAf2EA3Ia_s_NGIcpfNHEvedZj33nB7UvusMbmr8aJc322pL3d0V1NedJo387fRqkcX3wO2zirpy2gOFqL0as-KPRktOT70PgGoIGJIe1EWuveYOyj-iU1Ykq5g/s1511/battery-charging-android.webp)
-Solusi untuk mengatasi masalah baterai yang sudah lemah adalah dengan melakukan restart pada ponsel, membersihkan port pengisian, menggunakan kabel atau adapter yang berbeda, memastikan daya listrik dari stop kontak yang digunakan normal, memeriksa level dan kondisi baterai, menonaktifkan aplikasi atau fitur yang memakan daya, memperbarui software ponsel, memeriksa ada tidaknya kerusakan fisik atau kerusakan akibat cairan, memeriksa masalah software dan jika diperlukan mengganti baterai yang sudah lemah atau rusak.
-
-
-Selain itu, untuk memastikan pengisian daya yang benar, Anda juga perlu memperhatikan jenis baterai ponsel dan kompatibilitas daya dengan ponsel Anda. Ada dua jenis baterai yang paling umum digunakan pada ponsel, yaitu baterai lithium-ion (Li-ion) dan baterai nickel-metal hydride (NiMH). Ini penting untuk diperhatikan karena jenis baterai yang digunakan dan kompatibilitasnya dengan sistem pengisian ponsel dapat mempengaruhi kinerja dan masa pakai baterai.
-
+Selain itu, untuk memastikan pengisian daya yang benar, Anda juga perlu memperhatikan jenis baterai ponsel dan kompatibilitas daya dengan ponsel Anda. Ada dua jenis baterai yang paling umum digunakan pada ponsel, yaitu **baterai lithium-ion (Li-ion)** dan **baterai nickel-metal hydride (NiMH)**. Ini penting untuk diperhatikan karena jenis baterai yang digunakan dan kompatibilitasnya dengan sistem pengisian ponsel dapat mempengaruhi kinerja dan masa pakai baterai.
 
 Baterai Li-ion adalah baterai yang paling umum digunakan pada ponsel saat ini, karena baterai ini memiliki daya yang lebih besar daripada NiMH dan relatif lebih ringan. Baterai NiMH sering digunakan pada ponsel yang lebih tua, karena baterai ini dapat menyimpan lebih banyak daya listrik daripada Li-ion. Pastikan Anda mengecek instruksi ponsel atau menghubungi operator seluler Anda untuk memastikan kompatibilitas daya dengan ponsel Anda.
 
 
-Penyebab kenapa hp tidak bisa di cas
-------------------------------------
-
+## Penyebab Kenapa HP Tidak Bisa Di-charge
 
 [![gambar ponsel yang sedang di-charge dengan kompatibel kabel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSvIbTTFGBvKbOaxvZ9QCub95AjtZnuBfEhiXWg61D9qegDbtwZFRueDTC_a4JPGtOsI7cfUVYGbMzSGDycIr_5VqwCfjQoIu--pR5PgXuOqqdMNSuqNcGZ4Gesqdw1AndjxBNjbCFdgyFT2bg_gWBtY2OqQkdmgl25YUEVfOQMS2tIvHo4hVu5qWSQ/w640-h389/Cablecharger-failure--1024x623.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSvIbTTFGBvKbOaxvZ9QCub95AjtZnuBfEhiXWg61D9qegDbtwZFRueDTC_a4JPGtOsI7cfUVYGbMzSGDycIr_5VqwCfjQoIu--pR5PgXuOqqdMNSuqNcGZ4Gesqdw1AndjxBNjbCFdgyFT2bg_gWBtY2OqQkdmgl25YUEVfOQMS2tIvHo4hVu5qWSQ/s1024/Cablecharger-failure--1024x623.jpg)
-Pada umumnya penyebab paling sering kenapa ponsel tidak dapat di cas dalam keadaan hidup yaitu port pengisian daya yang mengalami kerusakan atau kesalahan pada sistem operasi sementara juga dapat menyebabkan ponsel Anda hanya dapat di cas saat dimatikan.
 
+Pada umumnya, penyebab paling sering kenapa ponsel tidak dapat dicharge dalam keadaan hidup yaitu **port pengisian daya yang mengalami kerusakan** atau kesalahan pada sistem operasi sementara juga dapat menyebabkan ponsel Anda hanya dapat di-charge saat dimatikan.
 
-Dalam kasus lain yang sering menjadi akar masalah penyebab hp dicas tapi tidak mengisi ialah pada Motherboard ponsel yang rusak. Pertama, periksa kabel dan konektor Anda. Kabel baterai seringkali menjadi penyebab utama masalah ini.
+Dalam kasus lain yang sering menjadi akar masalah penyebab HP di-charge tapi tidak mengisi ialah pada **Motherboard ponsel yang rusak**. Pertama, periksa kabel dan konektor Anda. Kabel baterai seringkali menjadi penyebab utama masalah ini.
 
+Jika kabelnya rusak atau tidak berfungsi dengan baik, Anda mungkin perlu mengganti kabel dengan yang baru. Kedua, periksa kondisi baterai Anda. Baterai yang rusak atau kurang dapat menyebabkan HP Anda di-charge, tetapi tidak mengisi. Untuk memeriksa baterai, Anda dapat mencoba untuk mengisi baterai dengan menggunakan kabel USB yang terhubung ke komputer atau laptop.
 
-Jika kabelnya rusak atau tidak berfungsi dengan baik, Anda mungkin perlu mengganti kabel dengan yang baru. Kedua, periksa kondisi baterai Anda. Baterai yang rusak atau kurang dapat menyebabkan HP Anda dicas, tetapi tidak mengisi. Untuk memeriksa baterai, Anda dapat mencoba untuk mengisi baterai dengan menggunakan kabel USB yang terhubung ke komputer atau laptop.
-
-
-Jika baterai tidak dapat diisi, Anda mungkin perlu menggantinya dengan yang baru. Ketiga, periksa kondisi port USB Anda. Port USB yang rusak atau tidak berfungsi dengan baik dapat menyebabkan kenapa hp tidak bisa di cas, tetapi tidak mengisi. Untuk memeriksa port USB, Anda dapat mencoba untuk mengisi baterai dengan menggunakan kabel USB yang terhubung ke komputer atau laptop. Jika baterai tidak dapat diisi, Anda mungkin perlu menggantinya dengan yang baru.
-
+Jika baterai tidak dapat diisi, Anda mungkin perlu menggantinya dengan yang baru. Ketiga, periksa kondisi **port USB Anda**. Port USB yang rusak atau tidak berfungsi dengan baik dapat menyebabkan kenapa HP tidak bisa di-charge, tetapi tidak mengisi. Untuk memeriksa port USB, Anda dapat mencoba untuk mengisi baterai dengan menggunakan kabel USB yang terhubung ke komputer atau laptop. Jika baterai tidak dapat diisi, Anda mungkin perlu menggantinya dengan yang baru.
 
 Berikut adalah beberapa penyebab mengapa ponsel Anda hanya dapat terisi daya saat dimatikan.
 
-
-### Kerusakan Pada Micro USB Charging Port
-
-
-Micro USB Charging Port yang rusak adalah salah satu adalah penyebab paling umum ponsel tidak dapat di isi daya atau di cas.
-
-
-Micro USB Charging Port pada ponsel, berfungsi sebagai "konektor" antara ponsel dan kabel USB untuk pengisisan daya maupun transfer data. Oleh karena itu apabila port tersebut bermasalah, seperti ketika lembab, tidak bersih, berdebu, atau berkarat, Maka pengisian daya pun akan mengalami kendala.
-
-
-Saat port pengisian daya bermasalah, Pasokan listrik dari soket charger ke ponsel akan mengalami kendala. Ketika ini terjadi, ponsel Anda hanya akan terisi daya hanya apabila anda mematikan ponsel anda. Namun meskipun ponsel dalam kondisi mati dapat terisi daya, pengisian dayanya akan berjalan dengan lambat.
-
-
-Lalu apa solusi jika Micro USB Charging Port mengalami kerusakan? Cara pertama yaitu membersihkan port charger dari kotoran yang akan menggangu terkoneksinya Kabel charging dengan Ponsel anda.
-
-
-Namun jika Port Charger telah mengalami kerusakan yang cukup parah, Maka solusinya adalah melakukan penggantian port charging tersebut di tempat service Smartphone terpercaya.
-
-
-### Baterai Ponsel yang Melemah
-
+## Kerusakan Pada Micro USB Charging Port
 
 [![gambar port pengisian daya ponsel yang dibersihkan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTKDOXe2TeGya8Gfwp-SSODLPZbLSzq7buejNY0L20q7GRSAC4lXC2_v4m9qwDzI_JvPUf-JTbGVpaDox_6YLd-Vm_Eg8Z-poB_LydEj1YdyV4kMR8mRva5K797bWuw_dLeHtvUGf4XuQOGjHj_xYf_WaSrQ_Ae7o03xNlw6WdNB9zm9kcbr9HSuk_EA/w640-h361/Micro-USB-Charging-Port-faulty-1024x576.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTKDOXe2TeGya8Gfwp-SSODLPZbLSzq7buejNY0L20q7GRSAC4lXC2_v4m9qwDzI_JvPUf-JTbGVpaDox_6YLd-Vm_Eg8Z-poB_LydEj1YdyV4kMR8mRva5K797bWuw_dLeHtvUGf4XuQOGjHj_xYf_WaSrQ_Ae7o03xNlw6WdNB9zm9kcbr9HSuk_EA/s1024/Micro-USB-Charging-Port-faulty-1024x576.webp)
-Ponsel yang tidak dapat di charge dalam keadaan hidup bisa juga disebabkan karena baterai yang mengalami kerusakan atau kualitas baterai yang buruk. Selain konektor Micro USB Charging Port yang mengalami kerusakan, Baterai ponsel, seperti jenis baterai lainnya, Bisa saja melemah setelah menjalani ratusan siklus pengisian ulang dan penggunaan selama bertahun-tahun.
 
+**Micro USB Charging Port** yang rusak adalah salah satu penyebab paling umum ponsel tidak dapat di-isi daya atau di-charge.
 
-Saat Anda mencolokkan kabel pengisi daya, Baterai ponsel akan menolak arus, dan listrik mengalir langsung ke ponsel, Bukan mengisi daya baterai. Jika situasi ini yang terjadi, Maka sampai kapan pun anda tidak akan bisa menyelesaikan Proses pengisian daya atau mengecas ponsel.
+Micro USB Charging Port pada ponsel, berfungsi sebagai "konektor" antara ponsel dan kabel USB untuk pengisian daya maupun transfer data. Oleh karena itu, apabila port tersebut bermasalah, seperti ketika lembab, tidak bersih, berdebu, atau berkarat, maka pengisian daya pun akan mengalami kendala.
 
+Saat port pengisian daya bermasalah, pasokan listrik dari soket charger ke ponsel akan mengalami kendala. Ketika ini terjadi, ponsel Anda hanya akan terisi daya hanya apabila Anda mematikan ponsel Anda. Namun meskipun ponsel dalam kondisi mati dapat terisi daya, pengisian dayanya akan berjalan dengan lambat.
 
-Dan jika hal ini yang menjadi penyebab kenapa hp tidak bisa di cas, Maka tidak ada jalan lain. Anda harus melakukan pergantian baterai, Hindari menggunakan baterai yang tidak sesuai dengan ponsel anda.
+### Solusi untuk Micro USB Charging Port yang Rusak
 
+Jika Micro USB Charging Port mengalami kerusakan, cara pertama adalah **membersihkan port charger** dari kotoran yang akan mengganggu terkoneksi-nya kabel charging dengan ponsel Anda.
 
-Selalu gunakan baterai resmi yang dikeluarkan oleh pabrikan ponsel anda. Untuk mengganti baterai yang telah rusak atau melemah, Kunjungi penyedia layanan service resmi agar anda mendapatkan spare part resmi dan bergaransi untuk merek ponsel Anda.
+Namun jika port charger telah mengalami kerusakan yang cukup parah, maka solusinya adalah melakukan penggantian port charging tersebut di tempat service smartphone terpercaya.
+
+## Baterai Ponsel yang Melemah
+
+[![gambar port pengisian daya ponsel yang dibersihkan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTKDOXe2TeGya8Gfwp-SSODLPZbLSzq7buejNY0L20q7GRSAC4lXC2_v4m9qwDzI_JvPUf-JTbGVpaDox_6YLd-Vm_Eg8Z-poB_LydEj1YdyV4kMR8mRva5K797bWuw_dLeHtvUGf4XuQOGjHj_xYf_WaSrQ_Ae7o03xNlw6WdNB9zm9kcbr9HSuk_EA/w640-h361/Micro-USB-Charging-Port-faulty-1024x576.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTKDOXe2TeGya8Gfwp-SSODLPZbLSzq7buejNY0L20q7GRSAC4lXC2_v4m9qwDzI_JvPUf-JTbGVpaDox_6YLd-Vm_Eg8Z-poB_LydEj1YdyV4kMR8mRva5K797bWuw_dLeHtvUGf4XuQOGjHj_xYf_WaSrQ_Ae7o03xNlw6WdNB9zm9kcbr9HSuk_EA/s1024/Micro-USB-Charging-Port-faulty-1024x576.webp)
+
+Ponsel yang tidak dapat di-charge dalam keadaan hidup juga bisa disebabkan karena **baterai yang mengalami kerusakan** atau kualitas baterai yang buruk. Selain konektor Micro USB Charging Port yang mengalami kerusakan, baterai ponsel, seperti jenis baterai lainnya, bisa saja melemah setelah menjalani ratusan siklus pengisian ulang dan penggunaan selama bertahun-tahun.
+
+Saat Anda mencolokkan kabel pengisi daya, baterai ponsel akan menolak arus, dan listrik mengalir langsung ke ponsel, bukan mengisi daya baterai. Jika situasi ini yang terjadi, maka sampai kapan pun Anda tidak akan bisa menyelesaikan proses pengisian daya atau mengecas ponsel.
+
+### Solusi untuk Baterai Ponsel yang Melemah
+
+Jika baterai adalah penyebab kenapa HP tidak bisa di-charge, maka tidak ada jalan lain. Anda harus melakukan pergantian baterai. Hindari menggunakan baterai yang tidak sesuai dengan ponsel Anda.
+
+Selalu gunakan baterai resmi yang dikeluarkan oleh pabrikan ponsel Anda. Untuk mengganti baterai yang telah rusak atau melemah, kunjungi penyedia layanan service resmi agar Anda mendapatkan spare part resmi dan bergaransi untuk merek ponsel Anda.
+
 
 
 ### Overcharging
