@@ -1,0 +1,55 @@
+baseURL = 'http://localhost:1313/'
+title = 'Oktrik'
+languageCode = 'id-ID'
+theme = 'pehtheme-hugo'
+canonifyURLs = true
+paginatePath = "laman"
+sitemapExclude = true
+
+paginate = '12' # <- Set the desired number of posts per page 
+summaryLength = '30' # <- 20 words are approximately 160 characters
+googleAnalytics = 'G-MEASUREMENT_ID' # <- Your GA-4
+disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.com
+
+[params]
+	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
+	description = 'Blog yang membahas beragam topik secara mendalam dan menarik'
+	mainSections = 'posts'
+	taxonomiesExcludedFromSitemap = ["tags", "categories"]
+	
+[author]
+name = "rosari j"
+bio = """
+Anton is a versatile writer who covers a wide range of topics and subjects. With a passion for sharing knowledge and insights, Anton writes about everything from technology and personal development to lifestyle and entertainment. Anton's goal is to engage and inform readers with well-researched and thought-provoking content.
+"""
+avatar = "/images/avatar.jpg"
+twitter = "https://twitter.com/insertapps"
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+  [module.mounts] # Directing the static folder to assets.
+  	source = 'assets'
+  	target = 'static'
+
+[sitemap]
+  changeFreq = ''
+  disable = false
+  filename = 'petas.xml'
+  priority = 0.8
