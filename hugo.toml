@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://www.oktrik.com/'
 title = 'Oktrik'
 languageCode = 'id-ID'
 theme = 'pehtheme-hugo'
@@ -20,7 +20,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 [author]
 name = "rosari j"
 bio = """
-Anton is a versatile writer who covers a wide range of topics and subjects. With a passion for sharing knowledge and insights, Anton writes about everything from technology and personal development to lifestyle and entertainment. Anton's goal is to engage and inform readers with well-researched and thought-provoking content.
+rosari j is a versatile writer who covers a wide range of topics and subjects. With a passion for sharing knowledge and insights, rosari j writes about everything from technology and personal development to lifestyle and entertainment. Anton's goal is to engage and inform readers with well-researched and thought-provoking content.
 """
 avatar = "/images/avatar.jpg"
 twitter = "https://twitter.com/insertapps"
