@@ -3,6 +3,7 @@ title = 'Oktrik'
 languageCode = 'id-ID'
 theme = 'pehtheme-hugo'
 canonifyURLs = true
+relativeURLs = true
 paginatePath = "laman"
 sitemapExclude = true
 
