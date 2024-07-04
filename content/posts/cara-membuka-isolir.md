@@ -3,6 +3,7 @@ layout: post
 title: Cara membuka isolir indihome (Wifi Dan Lan) via Call Center dan internet tunelling
 date: '2022-12-12T15:42:00.012+07:00'
 author: rosari J
+image: /images/isolir.jpg
 tags:
 - indihome
 - internet
