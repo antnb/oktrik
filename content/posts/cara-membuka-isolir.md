@@ -11,105 +11,101 @@ blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-45464594714863881
 blogger_orig_url: https://www.oktrik.com/2022/12/cara-membuka-isolir-wifi-indihome-via.html
 ---
 
-Indihome merupakan salah satu layanan internet yang paling banyak digunakan di Indonesia. Namun, dalam situasi tertentu, layanan ini bisa terputus karena Anda belum membayar tagihan layanan internet Indihome. Pemutusan layanan internet Indihome akibat belum membayar dapat memiliki dampak yang serius, terutama bagi mereka yang bergantung pada koneksi internet untuk menjalankan bisnis mereka.
+IndiHome, layanan internet fiber optik terkemuka dari Telkom Indonesia, terkadang menghadapi masalah isolir atau pemutusan layanan yang dapat mengganggu konektivitas pelanggan. Artikel ini akan membahas secara mendalam cara-cara untuk mengatasi isolir IndiHome, baik melalui metode resmi maupun alternatif.
 
+## Memahami Isolir IndiHome: Penyebab dan Dampak
 
-Layanan internet Indihome dapat diputus akibat berbagai alasan, termasuk karena Anda belum membayar tagihan. Biasanya, jika Anda belum membayar tagihan layanan [internet Indihome](https://www.oktrik.com/search/label/indihome) dalam jangka waktu yang telah ditentukan, layanan akan diputus. Putusan ini biasanya dilakukan dengan menonaktifkan sambungan internet Anda.
+Isolir IndiHome adalah proses penonaktifan sementara layanan internet fiber, UseeTV, dan telepon rumah. Beberapa penyebab umum isolir IndiHome meliputi:
 
+- Tunggakan pembayaran tagihan IndiHome
+- Pelanggaran terhadap Syarat dan Ketentuan (Terms of Service) IndiHome
+- Permintaan pemutusan layanan dari pelanggan
+- Maintenance atau perbaikan jaringan fiber optik IndiHome
 
-Pelanggan Indihome harus membayar tagihannya tepat waktu agar dapat menikmati layanan internet tanpa gangguan. Jika tagihan tidak dibayar tepat waktu, maka layanan internet Indihome akan diputus.
+Dampak isolir IndiHome:
 
+- Tidak dapat mengakses internet melalui WiFi atau LAN
+- Layanan UseeTV tidak dapat digunakan
+- Telepon rumah tidak berfungsi
+- Muncul notifikasi "Tidak ada koneksi" saat mencoba mengakses internet
+- Dialihkan ke halaman isolir IndiHome saat membuka browser
 
-Pemutusan internet Indihome terjadi ketika pelanggan telat membayar tagihan mereka. Di awal, pelanggan akan menerima pemberitahuan dari Indihome bahwa tagihan mereka sudah jatuh tempo. Jika pemberitahuan ini diabaikan, maka Indihome akan memutus saluran internet pelanggan. Keputusan ini akan berlaku sampai tagihan pelanggan dibayar dan dikonfirmasi oleh Indihome.
+## Cara Resmi Membuka Isolir IndiHome
 
+### Menghubungi Call Center IndiHome 147
 
-Ketika Indihome memutuskan saluran internet, pelanggan tidak dapat menggunakan layanan internet. Ini berarti bahwa pelanggan tidak akan dapat mengakses internet, streaming, atau menonton TV kabel. Jika pelanggan berusaha mengakses internet melalui router Indihome, akan muncul pesan “Tidak ada koneksi” dan akan dialihkan ke halaman isolir ke website indihome yang meminta anda untuk menghubungi call centre indihome.
+1. Tekan 147 dari telepon rumah IndiHome atau (021) 147 dari ponsel
+2. Ikuti menu interaktif dan pilih opsi terkait isolir
+3. Berikan informasi nomor IndiHome dan jelaskan masalah isolir yang dialami
+4. Ikuti instruksi dari customer service untuk proses pembukaan isolir
 
+### Menggunakan Aplikasi MyIndiHome
 
-Untuk menghindari pemutusan internet(Isolir), pelanggan Indihome harus membayar tagihan mereka tepat waktu. Pelanggan dapat membayar tagihannya melalui ATM, internet banking, atau melalui aplikasi MyIndihome. Setelah pembayaran dikonfirmasi oleh Indihome, layanan internet akan kembali aktif.
+1. Unduh dan instal aplikasi MyIndiHome dari Google Play Store atau App Store
+2. Login menggunakan nomor IndiHome Anda
+3. Pilih menu "Lapor Gangguan" atau "Pembayaran"
+4. Ikuti langkah-langkah untuk melaporkan isolir atau melakukan pembayaran
 
+### Kunjungi Plasa Telkom Terdekat
 
-Jadi, jika Anda telat membayar tagihan Indihome, maka layanan internet Anda akan diputus sampai Anda membayar tagihan Anda dan dikonfirmasi oleh Indihome. Jadi, pastikan Anda membayar tagihan Anda tepat waktu untuk menikmati layanan internet tanpa gangguan.
+1. Cari lokasi Plasa Telkom terdekat melalui website resmi Telkom
+2. Bawa identitas diri dan bukti pembayaran terakhir (jika ada)
+3. Jelaskan masalah isolir kepada petugas layanan pelanggan
+4. Proses pembukaan isolir akan dilakukan di tempat
 
+### Bayar Tagihan IndiHome
 
-Isolir IndiHome sendiri berlaku untuk semua layanan IndiHome yang telah diaktifkan oleh pelanggan, termasuk TV Kabel, Internet, dan Telepon. Pada saat isolir, semua layanan IndiHome yang telah diaktifkan oleh pelanggan akan dinonaktifkan dan tidak akan bisa digunakan lagi.
+1. Gunakan metode pembayaran seperti transfer bank, e-wallet, atau minimarket
+2. Pastikan membayar tagihan IndiHome sebelum tanggal jatuh tempo
+3. Simpan bukti pembayaran untuk verifikasi jika diperlukan
 
+## Metode Alternatif: Internet Tunneling untuk Bypass Isolir IndiHome
 
-Sehingga, pelanggan yang ingin mengaktifkan kembali semua layanan IndiHome yang telah dinonaktifkan harus menghubungi kantor Telkom dan membayar biaya yang telah ditentukan sebelumnya. Setelah pembayaran selesai, layanan akan diaktifkan kembali.
+**PERHATIAN: Metode berikut mungkin melanggar Ketentuan Layanan IndiHome. Gunakan dengan risiko sendiri dan hanya sebagai solusi sementara dalam keadaan darurat.**
 
+### OpenVPN Tunneling
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9MPnOWY0RAQPBBfcHayP3i9BokcuZmeXWSoa2zKfBhyVHKH_LKbKl3GpkEPIx6pRuKxt_Ll8bo58kpNO-woTbMcAv5JwZPrESsE-736ZhikzqZgtMKn6d7GVwuH0lGp7-WFkplxsD715d0iJuV1t62xryjKzfhXZg_HbxGgkEnjn2dx8Wr3MCVJF3JQ/s600/internet%281%29.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9MPnOWY0RAQPBBfcHayP3i9BokcuZmeXWSoa2zKfBhyVHKH_LKbKl3GpkEPIx6pRuKxt_Ll8bo58kpNO-woTbMcAv5JwZPrESsE-736ZhikzqZgtMKn6d7GVwuH0lGp7-WFkplxsD715d0iJuV1t62xryjKzfhXZg_HbxGgkEnjn2dx8Wr3MCVJF3JQ/s1700/internet%281%29.jpg)
-Apa itu isolir IndiHome
------------------------
+1. Unduh dan instal aplikasi OpenVPN di perangkat Anda
+2. Konfigurasi OpenVPN menggunakan protokol UDP pada port 520
+3. Hubungkan ke server VPN yang tersedia
+4. Akses internet melalui tunnel yang telah dibuat
 
+### Stunnel SSL Tunneling
 
-Istilah isolir IndiHome mengacu pada proses menonaktifkan layanan internet dan telepon rumah dari IndiHome. Proses ini dilakukan pada pelanggan yang memiliki tagihan yang tertunggak atau pelanggan yang menghendaki berhenti berlangganan. Isolir IndiHome juga dapat dilakukan untuk memelihara jaringan IndiHome dari pelanggan yang melakukan penyalahgunaan layanan (pelangggaran TOS). Proses isolasi berarti bahwa pelanggan tidak dapat menggunakan layanan internet dan telepon dari IndiHome sampai mereka membayar tagihan yang tertunggak atau berlangganan lagi.
+1. Unduh dan instal Stunnel di perangkat Anda
+2. Konfigurasi Stunnel menggunakan protokol SSL pada port 443
+3. Gunakan metode SSL certificate host spoofing dengan host isolir.indihome.co.id
+4. Akses internet melalui tunnel SSL yang telah dibuat
 
+### DNS over HTTPS (DoH)
 
-Cara Mengatasi Isolir IndiHome
-------------------------------
+1. Aktifkan fitur DNS over HTTPS di browser atau sistem operasi
+2. Gunakan server DoH public seperti Cloudflare (1.1.1.1) atau Google (8.8.8.8)
+3. Akses internet dengan DNS yang terenkripsi
 
+**Catatan Penting:**
 
-Cara Mengatasi pemutusan internet oleh IndiHome adalah dengan menghubungi customer service IndiHome jika isolasi terjadi dikarenakan adanya gangguan layanan, Namun bila isolir terjadi karena anda belum membayar tagihan, maka cara untuk mengatasi isolir indihome adalah dengan membayar tagihan bulan itu.
+- Metode tunneling hanya efektif selama portal isolasi IndiHome masih bisa diakses
+- Tunneling biasanya hanya berfungsi dari tanggal 21 hingga 30 tiap bulannya
+- Setelah tanggal 1, IndiHome akan memutus total koneksi internet
 
+## Tips Mencegah Isolir IndiHome
 
-Customer service akan membantu Anda untuk mengetahui alasan pemutusan internet dan memberi Anda solusi untuk mengatasinya. Anda juga bisa mengunjungi toko IndiHome terdekat atau mengikuti petunjuk di website resmi IndiHome untuk mendapatkan bantuan lebih lanjut.
+- Aktifkan layanan auto-debit untuk pembayaran tagihan IndiHome
+- Pantau penggunaan dan tagihan melalui aplikasi MyIndiHome secara rutin
+- Simpan nomor Call Center IndiHome 147 di kontak ponsel Anda
+- Hubungi layanan pelanggan jika mengalami kesulitan pembayaran
+- Pahami dan patuhi Syarat dan Ketentuan layanan IndiHome
 
+## Langkah-langkah Setelah Isolir IndiHome Dibuka
 
-### Lapor Call centre Indihome
+1. Restart modem IndiHome Anda
+2. Periksa koneksi WiFi dan LAN di semua perangkat
+3. Lakukan speed test untuk memastikan kecepatan internet normal
+4. Cek layanan UseeTV dan telepon rumah
+5. Hubungi kembali call center 147 jika masih mengalami masalah
 
+## Kesimpulan
 
-Lapor Gangguan Layanan IndiHome adalah salah satu cara untuk mengirimkan masalah yang terkait dengan layanan IndiHome kepada tim layanan pelanggan IndiHome. Melalui laporan ini, pelanggan dapat memberi tahu tim layanan pelanggan tentang masalah yang dihadapi, sehingga tim IndiHome dapat memecahkan masalah dan menyediakan layanan yang lebih baik. Dengan laporan ini, pelanggan dapat memastikan bahwa mereka akan mendapatkan bantuan yang cepat dan efektif.
-
-
-1. **Lapor via aplikasi My IndiHome**  
-Pastikan bahwa sebelum melaporkan isolir layanan IndiHome, kamu telah melakukan instalasi aplikasi My IndiHome di HP dan melakukan registrasi koneksi Internet IndiHome dan nomor telepon dengan menggunakan aplikasi My IndiHome.
-2. **Lapor via aplikasi My IndiHome**  
-Indihome menyediakan layanan Call Center untuk membantu pelanggan dalam mengirim laporan gangguan layanannya. Pelanggan dapat menghubungi Call Center Indihome di 147 untuk menyampaikan laporan gangguan layanan. Pada saat melapor gangguan, pelanggan harus menyediakan informasi seperti nomor pelanggan, nama pelanggan, alamat, dan informasi tentang gangguan yang dialami. Setelah laporan gangguan diterima, tim teknisi akan segera menuju lokasi untuk memperbaiki masalah.
-3. **Lapor via aplikasi social media**  
-Lapor Gangguan Layanan Indihome via Facebook Telkom Care adalah cara yang dapat digunakan oleh pelanggan Indihome untuk melaporkan gangguan layanan yang mereka alami. Pelanggan dapat mengirimkan laporan mereka melalui Halaman Facebook Telkom Care. Mereka juga dapat mengirimkan detail informasi tentang masalah yang mereka hadapi, seperti nomor pelanggan, nomor HP, dan nomor referensi laporan. Telkom Care akan memberikan balasan untuk memastikan bahwa laporan pelanggan telah diterima dan akan ditangani oleh tim teknisi Indihome.
-4. **Membayar Tagihan Internet Anda**  
-Layanan Internet indihome yang diblokir oleh pihak telkom bisa menimbulkan masalah. Jika tagihan ini tidak dibayar, maka layanan IndiHome akan terblokir (isolir). Untuk membayar tagihan, Anda bisa menggunakan [metode pembayaran indihome](https://www.oktrik.com/2022/12/langkah-langkah-mengecek-tagihan.html) yang disediakan oleh pihak telkom, seperti transfer bank, ATM, dan layanan pembayaran online. Anda juga dapat menghubungi customer service IndiHome untuk meminta bantuan.
-
-
-Bypass isolir indihome dengan teknik internet tunelling
--------------------------------------------------------
-
-
-Cara Mengatasi internet indihome yang di isolir dengan internet tunelling adalah salah satu cara yang dapat digunakan untuk melewati blokiran yang diterapkan oleh pihak telkom. Teknik ini memungkinkan pengguna untuk menghubungkan ke jaringan yang di blokir dengan menggunakan protokol yang disebut sebagai tunel. Tunel ini akan menyembunyikan identitas asli pengguna dan memungkinkan mereka untuk terhubung ke jaringan yang diblokir tanpa diketahui oleh pihak telkom.
-
-
-### Tuneling Menggunakan OpenVpn
-
-
-Tunneling OpenVPN adalah cara untuk mengakses internet yang diblokir (isolir).OpenVPN menggunakan teknologi tunneling untuk menghubungkan Anda ke jaringan lokal yang aman dan memungkinkan Anda untuk mengakses konten yang diblokir oleh pihak telkom tanpa harus menghadapi pembatasan yang diterapkan pihak indihome/Telkom.
-
-
-Dengan menggunakan OpenVPN, Anda dapat membuka situs web, aplikasi, dan layanan yang diblokir oleh pemerintah dan ISP tanpa khawatir tentang privasi atau keamanan data Anda. Ini adalah cara yang efektif untuk mengakses konten yang diblokir tanpa harus menghadapi risiko privasi atau keamanan. Layanan indihome yang diisolir karena telat membayar tagihan bisa diatasi menggunakan tunelling menggunakan protocol `UDP` pada port 520
-
-
-### Tuneling Menggunakan stunnel
-
-
-Tunneling Stunnel adalah teknik yang digunakan untuk mengakses internet yang diblokir. Teknik ini menggunakan sistem enkripsi untuk menghubungkan dua jaringan secara aman, memungkinkan pengguna untuk mengakses informasi yang diblokir tanpa khawatir tentang privasi. Dengan Stunnel, lalu lintas jaringan terenkripsi dan lokasi IP pengguna tidak akan terdeteksi oleh pihak indihome. Pihak indihome akan mendeteksi bahwa anda sedang mengakses Portal isolasi indihome pada url isolir.indihome.co.id padahal anda sedang mengakses situs youtube.
-
-
-Tunneling Stunnel memungkinkan pengguna layanan internet indihome untuk mengakses berbagai situs web tanpa batasan dari negara mana pun meskipun layanan internetnya telah di isolir oleh pihak telkom. Layanan indihome yang diisolir bisa di akali dengan menggunakan Stunnel Tunneling menggunakan protocol `SSL` pada port 443 dengan metode ssl certificate host spoofing yaitu isolir.indihome.co.id
-
-
-Catatan
--------
-
-
-Teknik tuneling hanya bersifat sementara atau selama portal isolasi telkom masih bisa diakses oleh pengguna. Biasanya Masa Isolir indihome berlangsung dari tanggal 21 hingga tanggal 30 tiap bulannya, Setelah itu (masuk tanggal 1) pihak telkom akan memutus secara total jaringan internet anda (jaringan akan tetap terhubung namun sama sekali tidak ada internet).
-
-
-Jalan satu satunya untuk membuka kembali isolir indihome setelah masa pemutusan total ialah hanya dengan membayar tagihan internet anda
-
-
-Kesimpulan
-----------
-
-
-Bagi Anda pelanggan internet indihome dan belum membayar tagihannya, maka layanan internet Anda akan diisolir. Oleh karena itu, penting untuk membayar tagihan Anda tepat waktu untuk mencegah pemblokiran layanan internet. Jika Anda menunda untuk membayar tagihan, maka biaya tambahan akan dikenakan dan Anda dapat mengalami gangguan layanan yang lebih lama. Oleh karena itu, penting bagi Anda untuk membayar tagihan segera setelah menerima notifikasi agar isolir indihome tidak terjadi lagi .
+Meskipun ada berbagai cara untuk mengatasi isolir IndiHome, metode terbaik adalah mencegahnya dengan membayar tagihan tepat waktu. Gunakan cara resmi yang disediakan oleh IndiHome untuk menyelesaikan masalah isolir. Metode alternatif seperti internet tunneling sebaiknya dihindari karena berisiko dan berpotensi melanggar ketentuan layanan. Ingatlah bahwa menjaga komunikasi yang baik dengan pihak IndiHome dan memahami kewajiban Anda sebagai pelanggan adalah kunci untuk menikmati layanan internet fiber optik tanpa gangguan. Jika Anda sering mengalami masalah dengan layanan IndiHome, pertimbangkan untuk mendiskusikan opsi paket atau layanan yang lebih sesuai dengan kebutuhan dan kemampuan finansial Anda.
 
