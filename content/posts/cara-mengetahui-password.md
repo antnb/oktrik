@@ -2,6 +2,7 @@
 layout: post
 title: Cara Mengetahui Password Wifi di Android dan Windows
 date: '2018-10-27T14:40:00.008+07:00'
+image: /images/password_wifi-1.jpg
 author: rosari J
 tags:
 - wireless
@@ -30,17 +31,6 @@ Biasanya akses point ini diproteksi dengan password dan setiap kali anda mengeti
 Apakah Anda menggunakan Wi-Fi di satu perangkat tetapi tidak dapat mengingat kata sandi di perangkat lain? Di Windows, macOS, iOS, dan Android, berikut langkah dan cara mengetahui password wifi, termasuk cara mengetahui password wifi tetangga yang belum terhubung dan cara melihat password wifi yang terkunci.
 
 
-
-
-
-
-
-[![internet caffe wifi password](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUtdeBh3lH1DtibtAcTdKcvihdLym4y7RE6og9bCDxdjFxlQBxq5yQZlKYDmgu_o5gs3ghfAgBSvf8zInWUk0zf9KQ_8qNWz_J6H21wVafeGfynmY8SX21xhGC5LYXTDyU1MRiJftZmzPNS-7DSLAre9L6UvlNKhgQyM7PvqrZj65WKfGpBp09MMDkxw/w640-h426/password_wifi-1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUtdeBh3lH1DtibtAcTdKcvihdLym4y7RE6og9bCDxdjFxlQBxq5yQZlKYDmgu_o5gs3ghfAgBSvf8zInWUk0zf9KQ_8qNWz_J6H21wVafeGfynmY8SX21xhGC5LYXTDyU1MRiJftZmzPNS-7DSLAre9L6UvlNKhgQyM7PvqrZj65WKfGpBp09MMDkxw/s1275/password_wifi-1.jpg)
-
-
-
-
-
 Cara Melihat Kata Sandi Wi-Fi di Windows
 ----------------------------------------
 
@@ -52,10 +42,6 @@ Pilih `Status > Wireless Properties` dari menu klik kanan adaptor Wi-Fi komputer
 
 
 Segalanya menjadi sedikit lebih rumit jika Anda mencoba melihat kata sandi untuk jaringan yang saat ini tidak terhubung dengan Anda. Pada situasi ini, Cara mengetahui password wifi dapat menggunakan aplikasi pihak ketiga seperti Magical JellyBean WiFi Password Revealer untuk melihat semua kredensial jaringan yang Anda simpan.
-
-
-
-
 
 
 
@@ -74,11 +60,6 @@ Pilih jaringan dari daftar dan kemudian ketik perintah ini ke interface CMD:
 (Masukkan nama jaringan yang Anda temukan sebelumnya sebagai pengganti MyNetwork.) Anda akan diberikan informasi jaringan tertentu, termasuk "Key Content", atau kata sandi.
 
 
-
-
-
-
-
 Bagaimana cara mengetahui kata sandi WiFi di ponsel saya?
 ---------------------------------------------------------
 
@@ -87,11 +68,6 @@ Cara mengetahui password wifi tanpa aplikasi pada ponsel yang menjalankan Androi
 
 
 Pilih tombol Bagikan dari menu tarik-turun. Untuk melanjutkan, Anda harus memvalidasi wajah/sidik jari Anda atau memasukkan kode PIN Anda. Setelah Anda menyelesaikan langkah-langkahnya, Anda akan menemukan kata sandi Wi-Fi jaringan Anda tercantum di bawah kode `QR`.
-
-
-
-
-
 
 
 ### Wifi Security
@@ -107,20 +83,10 @@ WPA: Wi-Fi Protected Access. Standar keamanan bagi pengguna perangkat komputasi 
 * WEP: Wired Equivalent Privacy. Ini adalah standar keamanan untuk Wi-Fi, tetapi meskipun digunakan secara luas, ini adalah yang paling tidak aman dari semuanya[[3]](#footnote-3). Cari WPA atau WPA2 sebagai gantinya.
 
 
-
-
-
-
-
 Namun permasalahannya disini adalah walaupun telah tersimpan dalam perangkat android anda, Anda tidak dapat melihat kata sandi Wi-Fi yang disimpan pada perangkat Anda.
 
 
 Mungkin Anda ingin menghubungkan perangkat kedua ke salah satu jaringan ini, atau Anda bersama teman yang ingin masuk ke hotspot yang sama namun anda lupa akan password wifi tersebut sehingga anda tidak akan bisa menyambungkan perangkat kedua tersebut karena tidak tau passwordnya. perangkat kedua ini bisa berupa PC, Laptop ataupun perangkat elektronik yang mempunyai konektivitas Via jaringan Wi-Fi
-
-
-
-
-
 
 
 ### Instal Aplikasi Password Wifi
@@ -131,13 +97,7 @@ Aplikasi Wifi ini dikembangkan oleh Alexandros Schillings dengan nama WiFi Key R
 
 Namun tidak perlu cemas karena telah tersedia aplikasi khusus smartphone android yang secara langsung bisa melihat profile Wi-fi berikut password yang tersimpan di perangkat android anda dan bisa langsung anda install melalui google playstore dengan kata kunci [WiFi Key Recovery](https://play.google.com/store/apps/details?id=aws.apps.wifiKeyRecovery) oleh pengembang Alexandros Schillings. aplikasi recovery password wi-fi ini Gratis
 
-
-
-
-
-
-
-### Wifi warden
+## Wifi warden
 
 
 WiFi Warden adalah aplikasi networking yang memungkinkan Anda dengan cepat memeriksa informasi penting tentang jaringan WiFi yang Anda sambungkan. Jika Anda menduga ada masalah dengan koneksi Anda, Anda dapat memeriksa apa yang terjadi dengannya kapan saja dan memastikannya aman.
@@ -149,11 +109,6 @@ Anda selalu dapat memeriksa produsen modem, enkripsi dan keamanan, frekuensi dan
 Selain semua pilihan berharga ini, Anda dapat lebih meningkatkan keamanan dengan membuat kata sandi yang sulit ditebak dan kecil kemungkinannya untuk didekripsi. Temukan semua yang dapat dilakukan WiFi Warden untuk Anda, memberikan Anda ketenangan pikiran saat menjelajahi web sepuasnya.
 
 
-
-
-
-
-
 Melihat Sandi Wi-Fi Yang Tersimpan
 ----------------------------------
 
@@ -163,22 +118,10 @@ Setelah terinstal, Maka cara mengetahui password wifi sangat mudah anda cukup Ja
 
 Namun perlu dicatat apabila perangkat anda telah terhubung dengan banyak wifi, maka akan sulit mencari profile yang anda cari. untuk memudahkan pencarian maka anda dapat menggunakan menu "SSID Quicksearch"
 
-
-
-
-
-
-
 Secara garis besar cara mengetahui password wifi hanya itu saja yang perlu anda lakukan untuk melihat password wifi tersebut, anda dapat melakukan hal tersebut langsung dari perangkat android anda tanpa memerlukan bantuan dari perangkat lain seperti PC, laptop atau smartphone lainnya.
 
 
 Selain itu aplikasi ini tidak hanya bisa untuk melihat password wifi, namun anda bisa melakukan export daftar profile wifi tadi kedalam format text dan dari sini bisa anda teruskan untuk disimpan ke media penyimpanan yang anda kehendaki
-
-
-
-
-
-
 
 
 Referensi
