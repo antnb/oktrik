@@ -6,6 +6,15 @@ canonifyURLs = true
 relativeURLs = true
 paginatePath = "laman"
 sitemapExclude = true
+enableGitInfo = true
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
+
 
 paginate = '12' # <- Set the desired number of posts per page 
 summaryLength = '30' # <- 20 words are approximately 160 characters
@@ -21,7 +30,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 [author]
 name = "rosari j"
 bio = """
-rosari j is a versatile writer who covers a wide range of topics and subjects. With a passion for sharing knowledge and insights, rosari j writes about everything from technology and personal development to lifestyle and entertainment. Anton's goal is to engage and inform readers with well-researched and thought-provoking content.
+rosari j is a versatile writer who covers a wide range of topics and subjects. With a passion for sharing knowledge and insights, rosari j writes about everything from technology and personal development to lifestyle and entertainment. rosari j goal is to engage and inform readers with well-researched and thought-provoking content.
 """
 avatar = "/images/avatar.jpg"
 twitter = "https://twitter.com/insertapps"
