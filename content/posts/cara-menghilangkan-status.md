@@ -3,6 +3,7 @@ layout: post
 title: Cara Menghilangkan Status Online Di WA
 date: '2018-11-01T14:37:00.001+07:00'
 author: rosari J
+image: /images/wa.jpg
 tags:
 - pesan
 - image
