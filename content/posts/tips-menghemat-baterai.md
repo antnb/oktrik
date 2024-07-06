@@ -1,201 +1,273 @@
 ---
 layout: post
-title: Tips Menghemat Baterai Iphone dan Android
+title: "Panduan Lengkap Menghemat Baterai iPhone dan Android: 25+ Tips dan Trik Terbaru 2024"
 date: '2017-12-05T17:02:00.002+07:00'
 author: rosari J
+image: /images/batre-2-1-800x500.jpg
 tags:
 - baterai
 - smartphone
+- Hemat Baterai
+- Tips Smartphone
+- iPhone
+- Android
+- Optimasi Baterai
 modification_time: '2022-11-05T16:04:02.927+07:00'
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-1718645471226980929
 blogger_orig_url: https://www.oktrik.com/2017/12/tips-menghemat-baterai-iphone-dan.html
 ---
 
-Saat ini hampir semua orang memiliki smartphone. Dan salah satu hal terpenting yang harus diperhatikan saat menggunakan smartphone adalah cara menghemat masa pakai baterai. Lagi pula, tidak ada yang ingin smartphone mereka mati di tengah hari.
+Dalam era digital ini, smartphone telah menjadi perpanjangan dari diri kita. Namun, masalah umum yang dihadapi pengguna iPhone dan Android adalah baterai yang cepat habis. Artikel ini akan membahas secara komprehensif cara menghemat baterai smartphone, memperpanjang umur baterai, dan mengoptimalkan penggunaan daya pada perangkat iOS dan Android Anda.
 
+Mengapa Menghemat Baterai Smartphone Penting?
+---------------------------------------------
 
-Bagi Pemilik smartphone Iphone Maupun Tablet Ipad umur Baterai merupakan hal yang penting. hal ini dikarenakan baik Ipad maupun Iphone Menggunakan Baterai jenis khusus yang tidak dapat dicopot ataupun diganti oleh user biasa dan harus dilakukan oleh teknisi khusus. Oleh karena itu faktor Umur baterai dan cara menghemat Baterai ponsel menjadi satu faktor penting yang mesti diperhatikan oleh pemilik Smartphone Iphone maupun Tablet Ipad
+Baterai smartphone, terutama pada iPhone, iPad, dan banyak perangkat Android modern, tidak dapat dengan mudah diganti oleh pengguna biasa. Ini membuat manajemen baterai menjadi aspek krusial dalam pemeliharaan perangkat. Menghemat baterai tidak hanya membuat perangkat Anda bertahan lebih lama dalam satu kali pengisian, tetapi juga memperpanjang umur baterai secara keseluruhan.
 
+Tips Umum Menghemat Baterai untuk iPhone dan Android
+----------------------------------------------------
 
-Secara Umum [tips dan trik](https://draft.blogger.com/) untuk memperpanjang umur baterai seperti keterangan yang tertera pada Website Resmi Apple antara lain:
+### 1\. Optimalkan Pengaturan Layar
 
+Layar adalah komponen yang paling banyak mengonsumsi daya pada smartphone. Berikut cara menghemat baterai melalui pengaturan layar:
 
-* menggunakan Charger yang sesuai dan resmi
-* Selalu mengisi Baterai paling tidak sampai 80%
-* paling tidak sebulan sekali isi penuh baterai anda (sampai 100%)
-* Isi baterai saat daya memang sudah akan habis (jangan gunakan Hp sambil di isi)
-* Untuk penggunaan jangka panjang, saat digunakan pastikan daya terisi 50%
+*   Kurangi tingkat kecerahan layar
+    
+*   Aktifkan fitur "Auto-Brightness" atau "Adaptive Brightness"
+    
+*   Gunakan tema gelap (dark mode) untuk menghemat baterai, terutama pada layar OLED
+    
+*   Atur waktu layar menyala sebelum terkunci otomatis ke periode yang lebih singkat
+    
 
+### 2\. Kelola Konektivitas dengan Bijak
 
-Tips mengawetkan baterai hp diatas tersebut bersifat umum, pada artikel ini akan kami berikan tips dan trik tambahan agar umur baterai hp anda awet . Berikut adalah beberapa tips dan trik tentang cara menghemat masa pakai baterai pada HP Anda:
+Fitur konektivitas dapat menguras baterai dengan cepat. Tips menghemat baterai terkait konektivitas:
 
+*   Matikan Wi-Fi, Bluetooth, NFC, dan GPS saat tidak digunakan
+    
+*   Aktifkan mode pesawat di area dengan sinyal lemah untuk mencegah ponsel terus mencari sinyal
+    
+*   Gunakan Wi-Fi daripada data seluler jika memungkinkan, karena umumnya lebih hemat baterai
+    
+*   Matikan fitur "Mobile Data Always On" di pengaturan developer options (Android)
+    
 
-USB Port Charging
------------------
+### 3\. Optimalkan Penggunaan Aplikasi
 
+Aplikasi yang berjalan di latar belakang dapat menguras baterai. Cara mengatasinya:
 
-Selain menggunakan charger listrik, Hp smartphone seperti Iphone ataupun Smartphone Android pun support untuk melakukan isi daya (charging) melalui usb port pada komputer atau laptop. Namun perlu diperhatikan bahwa tiap port usb pada komputer dan laptop memiliki spesifikasi sendiri, hal ini dikarenakan USB Port yang ada saat ini pun memiliki beragam versi.
+*   Matikan sinkronisasi otomatis untuk aplikasi yang tidak penting
+    
+*   Nonaktifkan fitur "Background App Refresh" di iPhone atau batasi di Android
+    
+*   Uninstall aplikasi yang jarang digunakan
+    
+*   Gunakan versi lite dari aplikasi jika tersedia (misalnya Facebook Lite)
+    
+*   Batasi penggunaan widget yang memperbarui data secara real-time
+    
 
+### 4\. Gunakan Mode Hemat Daya
 
-Untuk spesifikasi Komputer terbaru saat ini umumnya sudah menggunakan teknologi *USB PORT 3.2*, Namun pada tipe komputer atau laptop tipe lama terkadang masih menggunakan teknologi USB Port 1.x dan USB Port 2.0. dimana tiap tiap Versi tersebut memiliki spesifikasi yang berbeda pula dalam segi transfer rate, kapabilitas dan lain lain.
+Baik iPhone maupun Android memiliki fitur mode hemat daya bawaan:
 
+*   iPhone: Low Power Mode
+    
+*   Android: Battery Saver atau Power Saving Mode
+    
 
-Oleh karena itu apabila saat mengisi daya baterai Hp menggunakan USB port terdapat notifikasi "*NOT CHARGING*" atau daya terisi namun sangat lama bisa dipastikan bahwa slot USB yang dipakai tersebut tidak dapat memberikan output daya yang sesuai seperti yang dibutuhkan oleh Hp anda, silahkan coba ganti dengan slot USB lain nya yang ada di komputer atau pun laptop anda
+Aktifkan mode ini saat baterai mulai menipis atau secara otomatis pada level baterai tertentu.
 
+### 5\. Perbarui Sistem Operasi dan Aplikasi
 
- 
+Update terbaru sering kali menyertakan optimisasi baterai:
 
+*   Pastikan sistem operasi (iOS atau Android) selalu diperbarui
+    
+*   Update aplikasi secara teratur melalui App Store atau Google Play Store
+    
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSf0e0LIYw8X2NoCd_PMurDsb0GwsYFd9mm4gUX18l3UKTWvXC7CAYWZ1qtSa2gV3ungXVL_zfkxjwQY4FFlXe5M7n26NzkURJMhxeDvbQ_BoOZzOOa9Ti4tTdMzVfYS2WftG1AgIbd41v57jClfHwM72WracjTC4xLBVUkgSvxMSW9hl4dTJLNtyqgQ/w640-h400/batre-2-1-800x500.jpg)](https://draft.blogger.com/)
- 
+### 6\. Optimalkan Pengaturan Notifikasi
 
+Notifikasi yang berlebihan dapat menguras baterai:
 
- 
+*   Matikan notifikasi push untuk aplikasi yang tidak penting
+    
+*   Kurangi frekuensi sinkronisasi email
+    
+*   Nonaktifkan fitur "raise to wake" atau "lift to check phone" jika tidak diperlukan
+    
 
+### 7\. Hindari Suhu Ekstrem
 
-Kecilkan Brigtness pada layar dan aktifkan fitur lock screen
-------------------------------------------------------------
+Suhu ekstrem dapat merusak baterai:
 
+*   Hindari menggunakan atau mengisi daya ponsel di lingkungan yang terlalu panas atau dingin
+    
+*   Jangan tinggalkan ponsel di dalam mobil yang terparkir di bawah sinar matahari langsung
+    
 
-Mode backlight yang aktif pada Smartphone anda tentu saja memakan daya yang cukup banyak, Anda dapat menghemat Baterai hp anda dengan mengurangi Level Brigtness atau menaktifkan mode "*Auto-Brightness*".
+### 8\. Praktek Pengisian Daya yang Baik
 
+Kebiasaan mengisi daya yang baik dapat memperpanjang umur baterai:
 
-Trik lainnya yang cukup signifikan dalam menghemat daya handphone anda adalah mengaktifkan mode screen lock, jika anda tidak terlalu sering memainkan Handphone maka anda bisa mengatur jeda waktu agar *Mode auto Lock* aktif misalnya tiap 1 menit
+*   Isi baterai hingga 80-90% dan hindari membiarkannya turun di bawah 20%
+    
+*   Hindari pengisian daya semalam penuh
+    
+*   Gunakan charger resmi atau yang tersertifikasi
+    
+*   Hindari menggunakan ponsel saat mengisi daya untuk mencegah overheating
+    
 
+Tips Khusus untuk Menghemat Baterai iPhone
+------------------------------------------
 
-Mematikan Wifi, Bluetooth, GPS dan Airplane Mode
-------------------------------------------------
+{{< figure src="/images/hemat-baterai-mode-airplane.jpg" alt="gunakan mode airplane untuk menghemat baterai" >}}
 
+### 1\. Gunakan Low Power Mode
 
-Fitur Wifi,Bt,dan location service adalah salah satu penyebab utama cepatnya penggunaan daya di handphone IPhone anda. Semua Fitur tersebut akan secara terus menerus akan melakukan koneksi kepada perangkat maupun server yang terkonfigurasi.
+Low Power Mode pada iPhone dapat memperpanjang masa pakai baterai hingga 3 jam. Cara mengaktifkannya:
 
+*   Buka Settings > Battery > Low Power Mode
+    
+*   Atau, tambahkan toggle Low Power Mode ke Control Center untuk akses cepat
+    
 
-Sebagai contoh saat mengakses internet menggunakan WIFI namun sinyal yang ada tidak maksimal maka Iphone maupun smartphone lainnya akan bekerja ekstra yang mengakibatkan baterai akan terkuras secara cepat dan dalam penggunaan jangka panjang mengurangi umur baterai anda
+### 2\. Periksa Battery Health
 
+iOS menyediakan fitur untuk memeriksa kesehatan baterai:
 
-Akses Internet Menggunakan WIFI Dari Pada 3G atau 4G/LTE
---------------------------------------------------------
+*   Buka Settings > Battery > Battery Health
+    
+*   Periksa "Maximum Capacity" dan "Peak Performance Capability"
+    
 
+### 3\. Matikan "Hey Siri"
 
-Seperti yang anda ketahui bahwa WIFI yang terus menerus aktif akan dengan cepat menghabiskan baterai pada Iphone maupun smartphone anda, Namun Akses Internet Menggunakan 3G maupun 4G Lte Memakan daya yang lebih banyak dibandingkan dengan menggunakan Wifi.
+Fitur "Hey Siri" terus mendengarkan dan dapat mengonsumsi baterai:
 
+*   Buka Settings > Siri & Search
+    
+*   Nonaktifkan "Listen for Hey Siri"
+    
 
-Oleh karena itu apabila memungkinkan jika di sekitar anda terdapat Akses Wifi, maka kami menyarankan untuk mematikan fitur GPRS pada hp maupun tablet anda dan mengaktifkan Wifi sebagai gantinya tentu saja dengan catatan [Akses point wifi tersebut tidaklah dipassword](https://draft.blogger.com/)
+### 4\. Optimalkan Pengaturan iCloud
 
+Sinkronisasi iCloud dapat menguras baterai:
 
-Matikan sync pada aplikasi yang terinstal
+*   Buka Settings > \[Your Name\] > iCloud
+    
+*   Nonaktifkan sinkronisasi untuk aplikasi yang tidak perlu disinkronkan secara real-time
+    
+
+### 5\. Gunakan Fitur Optimized Battery Charging
+
+Fitur ini membantu memperlambat penuaan baterai:
+
+*   Buka Settings > Battery > Battery Health
+    
+*   Aktifkan "Optimized Battery Charging"
+    
+
+Tips Khusus untuk Menghemat Baterai Android
+-------------------------------------------
+
+### 1\. Gunakan Dark Mode
+
+Dark mode dapat menghemat baterai, terutama pada perangkat dengan layar OLED:
+
+*   Buka Settings > Display > Dark theme
+    
+*   Aktifkan dark mode pada aplikasi yang mendukungnya
+    
+
+### 2\. Optimalkan Penggunaan Lokasi
+
+Penggunaan lokasi yang berlebihan dapat menguras baterai:
+
+*   Buka Settings > Location
+    
+*   Atur aplikasi mana yang boleh mengakses lokasi Anda dan dalam mode apa (selalu, hanya saat digunakan, atau tidak pernah)
+    
+
+### 3\. Gunakan Aplikasi Pihak Ketiga untuk Manajemen Baterai
+
+Beberapa aplikasi dapat membantu menghemat baterai:
+
+*   Greenify: Membantu menghibernasi aplikasi yang tidak digunakan
+    
+*   AccuBattery: Memberikan informasi detail tentang penggunaan baterai
+    
+*   Battery Guru: Menawarkan tips personalisasi untuk menghemat baterai
+    
+
+### 4\. Aktifkan Adaptive Battery
+
+Fitur ini tersedia pada Android 9 Pie dan yang lebih baru:
+
+*   Buka Settings > Battery > Adaptive Battery
+    
+*   Aktifkan fitur ini untuk membatasi penggunaan baterai oleh aplikasi yang jarang digunakan
+    
+
+### 5\. Gunakan Baterai Saver Bawaan
+
+Android memiliki fitur baterai saver bawaan yang efektif:
+
+*   Buka Settings > Battery > Battery Saver
+    
+*   Atur kapan fitur ini akan aktif otomatis
+    
+
+Mitos dan Fakta Seputar Pengisian Daya dan Baterai Smartphone
+-------------------------------------------------------------
+
+### Mitos: Mengisi daya semalaman merusak baterai
+
+Fakta: Smartphone modern memiliki proteksi terhadap overcharging.
+
+### Mitos: Harus mengosongkan baterai sebelum mengisi ulang
+
+Fakta: Baterai Li-Ion lebih baik diisi ulang sebelum benar-benar kosong.
+
+### Mitos: Menggunakan ponsel saat mengisi daya berbahaya
+
+Fakta: Aman, tapi bisa memperlambat pengisian dan meningkatkan panas.
+
+Cara Memeriksa Kesehatan Baterai
+--------------------------------
+
+### Untuk iPhone:
+
+*   Buka Settings > Battery > Battery Health
+    
+
+### Untuk Android:
+
+*   Unduh aplikasi seperti AccuBattery atau CPU-Z
+    
+*   Beberapa perangkat memiliki fitur bawaan di Settings > Battery > Battery health
+    
+
+Kapan Harus Mengganti Baterai Smartphone?
 -----------------------------------------
 
+Pertimbangkan penggantian baterai jika:
 
-Salah satu keunggulan Menggunakan Handphone IPHONE dan Smartphone Android adalah tersedianya ratusan aplikasi gratis yang dapat anda install tanpa dikenai biaya. Namun banyak dari aplikasi tersebut membutuhkan koneksi internet untuk melakukan sinkronisasi dengan server mereka masing masing dalam periode waktu tertentu.
-
-
-Sebagai Contoh Aplikasi Email ataupun Calender dalam kurun waktu tertentu akan melakukan koneksi untuk melakukan sinkronisasi Perangkat terhadap server, Aplikasi Chat social media pun melakukan singkronisasi untuk mengecek adanya pesan baru.
-
-
-Jika semakin banyak aplikasi yang terinstal dan semuanya melakukan sinkronisasi secara terus menerus yang pada akhirnya tentunya Handphone ataupun tablet anda akan memakan daya yang cukup banyak, anda pun akan kesulitan dalam menghemat Baterai dan penggunaan yang boros daya tersebut akan mengurangi umur baterai tersebut
-
-
- 
-
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjvKcHffvzAwVVh2UW3-3r27MB6E1_zJqoRHEg1tqb64yC_8DVOlL1qGRY84ASbzbtJOhx5W_RcWF-g1nMTLh5tV8fCtuTYiKiPNmKRFs_0Tx_olKA-8BlvME8IzjRLyeJ82B_cnQ4dQTwCfLYp-xW0ncYm3C96zXzySzue-9fxljC0j4vUnnpZAVMCA/w640-h212/hemat-baterai-mode-airplane.jpg)](https://draft.blogger.com/)
- 
-
-
- 
-
-
-Mematikan Background Refresh
-----------------------------
-
-
-IOS7 Dan Android mempunyai kemampuan untuk menjalankan dua aplikasi secara bersamaan atau yang sering disebut `MULTI TASKING`, kemampuan fitur ini pada umumnya tidak menggangu kinerja Handphone dalam hal memory maupun penggunaan CPU selama spesifikasi hardware mencukupi.
-
-
-Anda dapat berganti dari satu jendela ke jendela lainnya. namun perlu anda perhatikan meskipun tidak begitu signifikan dalam memakan daya baterai handphone, Jika anda matikan fitur Background Refresh cukup membantu anda dalam menghemat Baterai ponsel anda
-
-
-Mematikan Opsi Getar pada aplikasi Game
----------------------------------------
-
-
-Jika anda salah seorang yang hobi bermain Games menggunakan Handphone, seperti halnya menu mematikan background refresh mematikan Opsi `VIBRATE` meskipun tidak banyak namun cukup berperan dalam menghemat Baterai karena handphone tidak akan meggunakan daya tambahan untuk bergetar saat anda bermain game. Opsi ini biasanya terdapat pada menu `OPTION` saat memulai game tersebut atau anda dapat terapkan secara global Pada menu `PHONE SETTING`
-
-
-Gunakan Mode Hemat Daya
------------------------
-
-
-Salah satu cara paling efektif untuk menghemat masa pakai baterai pada HP Anda adalah dengan menggunakan mode hemat daya. Mode ini dapat diaktifkan dengan masuk ke Pengaturan ponsel Anda> Baterai> Mode Hemat Daya. Setelah mode ini diaktifkan, ponsel Anda akan secara otomatis menyesuaikan kinerja dan kecerahan layarnya untuk menghemat masa pakai baterai.
-
-
-Kurangi kecerahan layar
------------------------
-
-
-Cara lain untuk menghemat masa pakai baterai pada HP Anda adalah dengan mengurangi kecerahan layar. Anda dapat melakukannya dengan membuka Pengaturan > Tampilan > Kecerahan ponsel Anda. Dengan mengurangi kecerahan layar, Anda akan menggunakan lebih sedikit daya baterai.
-
-
-Matikan Wi-Fi dan Bluetooth
----------------------------
-
-
-Jika Anda tidak menggunakan Wi-Fi atau Bluetooth, pastikan untuk mematikannya. Fitur-fitur ini dapat menguras masa pakai baterai Anda dengan sangat cepat. Anda dapat menonaktifkannya dengan membuka Setelan ponsel > Nirkabel & jaringan.
-
-
-Gunakan Wallpaper Statis
-------------------------
-
-
-Jika Anda menggunakan wallpaper hidup, yang terbaik adalah beralih ke wallpaper statis. Wallpaper hidup cantik tetapi dapat menghabiskan banyak daya baterai.
-
-
-Periksa Pembaruan Aplikasi
---------------------------
-
-
-Pastikan Anda secara teratur memeriksa pembaruan aplikasi. Aplikasi yang kedaluwarsa terkadang dapat menyebabkan baterai terkuras. Anda dapat memeriksa pembaruan aplikasi dengan masuk ke Pengaturan ponsel Anda > Aplikasi > Periksa pembaruan.
-
-
-Uninstall Aplikasi yang Tidak Digunakan
----------------------------------------
-
-
-Jika Anda memiliki aplikasi yang tidak lagi Anda gunakan, yang terbaik adalah mencopot pemasangannya. Aplikasi yang tidak digunakan dapat menguras masa pakai baterai Anda dan menghabiskan ruang penyimpanan. Anda dapat mencopot pemasangan aplikasi dengan membuka Pengaturan > Aplikasi > Kelola aplikasi di ponsel Anda.
-
-
-Kurangi Skala Animasi
----------------------
-
-
-Anda dapat mengurangi skala animasi dengan membuka Pengaturan > Tampilan ponsel Anda. Dengan mengurangi skala animasi, Anda akan menggunakan lebih sedikit daya baterai.
-
-
-Gunakan Greenify
-----------------
-
-
-Greenify adalah aplikasi yang dapat membantu Anda menghemat masa pakai baterai. Aplikasi ini menempatkan aplikasi Anda ke mode hibernasi saat tidak digunakan. Ini akan membantu mencegah mereka menghabiskan masa pakai baterai Anda.
-
-
-Gunakan FlyGPS
---------------
-
-
-FlyGPS adalah aplikasi yang menipu lokasi GPS Anda. Ini dapat berguna jika Anda ingin menghemat masa pakai baterai saat Anda bepergian.
-
-
-Gunakan Tasker
---------------
-
-
-Tasker adalah aplikasi yang memungkinkan Anda mengotomatiskan berbagai tugas di ponsel Anda. Ini dapat berguna untuk menghemat masa pakai baterai.
-
+*   Kapasitas maksimum di bawah 80%
+    
+*   Ponsel sering mati tiba-tiba
+    
+*   Baterai mengembung atau bocor
+    
 
 Penutup
 -------
 
+Menghemat baterai smartphone memerlukan kombinasi dari pengaturan yang tepat dan kebiasaan penggunaan yang baik. Dengan menerapkan tips-tips di atas, Anda dapat memaksimalkan daya tahan baterai iPhone atau Android Anda, memperpanjang umur baterai, dan mengurangi frekuensi pengisian daya.
 
-Dengan mengikuti tips ini, Anda akan dapat menghemat masa pakai baterai di HP Anda dan mencegah ponsel Anda mati di siang hari.
+Ingatlah bahwa pola penggunaan setiap orang berbeda, jadi cobalah berbagai metode untuk menemukan yang paling efektif bagi Anda. Selalu perbarui pengetahuan Anda tentang cara menghemat baterai, karena teknologi smartphone terus berkembang dengan fitur-fitur baru yang dapat mempengaruhi penggunaan baterai.
 
+Sudahkah Anda mencoba tips-tips ini? Bagikan pengalaman dan tips Anda sendiri di kolom komentar untuk membantu pengguna lain mengoptimalkan baterai smartphone mereka!
