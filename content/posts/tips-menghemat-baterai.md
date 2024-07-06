@@ -2,6 +2,7 @@
 layout: post
 title: "Panduan Lengkap Menghemat Baterai iPhone dan Android: 25+ Tips dan Trik Terbaru 2024"
 date: '2017-12-05T17:02:00.002+07:00'
+description: Pelajari 25+ cara efektif menghemat baterai smartphone dan memperpanjang umur baterai iPhone dan Android. Temukan pengaturan hemat daya iPhone, fitur baterai Android terbaru, dan tips manajemen daya ponsel untuk mengoptimalkan kinerja baterai perangkat Anda.
 author: rosari J
 image: /images/batre-2-1-800x500.jpg
 tags:
