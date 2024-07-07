@@ -2,6 +2,7 @@
 layout: post
 title: Cara Melihat Orang Yang Melihat FB Kita (Plugin Dan Source Code)
 date: '2017-12-03T17:17:00.003+07:00'
+image: /images/fb1.jpg
 author: rosari J
 tags:
 - social media

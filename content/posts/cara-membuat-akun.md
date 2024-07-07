@@ -2,6 +2,7 @@
 layout: post
 title: Cara Membuat Akun Instagram Menggunakan HP Android
 date: '2019-12-27T11:29:00.004+07:00'
+image: /images/ig1.jpg
 author: rosari J
 tags:
 - social media
@@ -60,7 +61,7 @@ Simak penjelasan cara membuat akun instagram di HP Android dengan mudah.
 
 Fitur Instagram Yang Dapat Anda Nikmati Setelah Mempunyai Akun Instagram
 ------------------------------------------------------------------------
-
+{{< figure src="/images/2108.jpg" alt="akun ig" >}}
 
 Beberapa fitur instagram yang harus di ketahui oleh para pengguna pemula platfoam sosial media instagram. Berikut beberapa fitur instagram yang akan anda dapatkan setelah mendaftar akun instagram.
 
