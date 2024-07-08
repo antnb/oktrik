@@ -26,6 +26,9 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 	description = 'Blog yang membahas beragam topik secara mendalam dan menarik'
 	mainSections = 'posts'
 	taxonomiesExcludedFromSitemap = ["tags", "categories"]
+	author = "Your Name"
+    logo = "/path/to/logo.jpg"
+    header = "Your Website Name"
 	
 [author]
 name = "rosari j"

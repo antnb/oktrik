@@ -62,7 +62,7 @@ Sebelum kita mendalami metode dan sumber belajar, mari kita eksplorasi lebih lan
         
 
 ## Dasar-dasar Bahasa Korea untuk Pemula
-
+{{< figure src="/images/korean1.jpg" alt="Tips Belajar Korea Untuk Pemula" >}}
 
 Sebelum mulai menggunakan aplikasi atau website belajar, penting untuk memahami beberapa konsep dasar bahasa Korea:
 
@@ -127,7 +127,7 @@ Berikut adalah daftar lengkap sumber daya online terbaik untuk belajar bahasa Ko
     *   Konten budaya Korea untuk memperkaya pembelajaran
         
 3.  LingoDeer
-    
+    {{< figure src="/images/Lingodeer1.jpg" alt="Aplikasi Bahasa Korea Gratis" >}}
     *   Fokus pada bahasa Asia, termasuk Korea
         
     *   Pendekatan sistematis dengan penjelasan tata bahasa yang rinci
