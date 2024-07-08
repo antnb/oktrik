@@ -8,6 +8,11 @@ description: Panduan lengkap memilih aplikasi pembukuan, tips manajemen keuangan
 author: rosari J
 tags:
 - bisnis
+- Pembukuan Usaha Kecil
+- Software Akuntansi Terbaik
+- Manajemen Keuangan Bisnis
+- Akuntansi untuk UKM
+- Tips Mengelola Keuangan Usaha
 modification_time: '2022-12-30T23:04:56.769+07:00'
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-684328762796152872
 blogger_orig_url: https://www.oktrik.com/2022/12/manajemen-pembukuan-usaha-kecil-simpel.html
