@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manajemen Pembukuan Usaha Kecil? Simpel dan Mudah dengan Aplikasi Ini!
+title: "Pembukuan Mudah, Bisnis Lancar: Software Akuntansi Ramah UMKM Terbaik"
 date: '2022-12-30T23:04:00.004+07:00'
 lastmod: '2024-07-08T00:40:04-07:00'
 image: /images/pembukuan.jpg
@@ -135,7 +135,7 @@ Memilih software akuntansi bisa jadi membingungkan dengan banyaknya opsi di pasa
     
 {{< figure src="/images/rekap-pembukuan.jpg" alt="seorang wanita pekerja kantor sedang melakukan rekapitulasi menggunakan software akutansi" >}}
 
-Analisis Mendalam: Software Akuntansi Terbaik untuk Usaha Kecil di Indonesia
+Software Akuntansi Terbaik untuk Usaha Kecil di Indonesia
 ----------------------------------------------------------------------------
 
 Mari kita telaah beberapa software akuntansi terpopuler yang cocok untuk usaha kecil di Indonesia:
