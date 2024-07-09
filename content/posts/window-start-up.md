@@ -5,7 +5,7 @@ date: '2024-07-09T00:00:00+07:00'
 image: /images/start-up.jpg
 author: rosari J
 tags:
-- hardware
+- windows
 - wireless
 ---
 
