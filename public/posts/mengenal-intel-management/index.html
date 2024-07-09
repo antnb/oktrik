@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="id-ID" dir="ltr">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Intel Management Engine: Fitur, Keamanan, dan Kompatibilitas | Oktrik</title>
+
+<meta name="description" content="">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8410270452001273" crossorigin="anonymous"></script>
+<link rel="canonical" href="https://www.oktrik.com/posts/mengenal-intel-management/" />
+      <link rel="stylesheet" href="../../css/main.min.584aed796ba9d245f84009d57da9662e9c02059611972780263728b442fc25ff.css" integrity="sha256-WErteWup0kX4QAnVfalmLpwCBZYRlyeAJjcotEL8Jf8=" crossorigin="anonymous">
+
+<link rel="icon" type="image/svg+xml" href="https://www.oktrik.com/favicon.svg"> 
+<link rel="icon" type="image/x-icon" href="https://www.oktrik.com/favicon.ico"> 
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.oktrik.com/favicon.png"> 
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.oktrik.com/favicon-32.png"> 
+<link rel="icon" type="image/png" sizes="64x64" href="https://www.oktrik.com/favicon-64.png"> 
+
+</head>
+<body>
+  <header class="py-6 border-b"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
+    <div class="flex items-center">
+        <div class="flex items-center">
+            <button class="flex items-center space-x-2 rounded-full border py-1 pr-[5px] pl-3 group bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="menu-bar">
+                <svg width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"></path>
+                </svg>
+                <span class="bg-blue-500 fill-white rounded-full p-1.5">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="group-hover:animate-spin bi bi-egg-fried fill-white" viewBox="0 0 16 16">
+                        <path d="M8 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"></path>
+                        <path d="M13.997 5.17a5 5 0 0 0-8.101-4.09A5 5 0 0 0 1.28 9.342a5 5 0 0 0 8.336 5.109 3.5 3.5 0 0 0 5.201-4.065 3.001 3.001 0 0 0-.822-5.216zm-1-.034a1 1 0 0 0 .668.977 2.001 2.001 0 0 1 .547 3.478 1 1 0 0 0-.341 1.113 2.5 2.5 0 0 1-3.715 2.905 1 1 0 0 0-1.262.152 4 4 0 0 1-6.67-4.087 1 1 0 0 0-.2-1 4 4 0 0 1 3.693-6.61 1 1 0 0 0 .8-.2 4 4 0 0 1 6.48 3.273z"></path>
+                    </svg>
+                </span>
+            </button>
+            <div class="relative rounded-full py-1.5 px-6 bg-zinc-100 hover:bg-zinc-200 text-xl font-bold uppercase mx-2">
+                <h2><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="https://www.oktrik.com/">Oktrik</a></h2>
+            </div>
+        </div>
+        <div class="flex items-center ml-auto">
+            <button class="flex items-center rounded-full p-3 bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="search-bar">
+                <svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+                    <path id="path1" class="transition-all ease-linear" d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+                    <path id="path2" class="transition-all ease-linear hidden" d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"></path>
+                </svg>
+            </button>
+        </div>
+    </div>
+<div id="search-bar" class="block mt-3 close">
+	<form id="search" class="flex items-stretch">
+		<input class="w-full block px-6 py-2 rounded-l-full focus:outline-none border border-zinc-200" type="text" placeholder="Search...">
+		<button class="flex items-center px-7 py-2.5 rounded-r-full border border-zinc-200 ">
+			<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="group-hover:animate-pulse" viewBox="0 0 16 16">
+				<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+			</svg>
+		</button>
+	</form>
+</div>
+</div>
+</header>
+  <main class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8"><div id="breadcrumb" class="max-w-7xl mx-auto py-8">
+	<ul class="flex space-x-4 text-sm text-zinc-500">
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase">
+			<a href="https://www.oktrik.com/">Oktrik</a>
+		</li>
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase">
+			<a href="https://www.oktrik.com/posts/">Posts</a>
+		</li>
+	</ul>
+</div><div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
+
+  <article class="md:col-span-2 prose lg:prose-lg">
+
+    <header class="not-prose">
+      
+      <h1 id="title" class="text-4xl font-bold leading-normal">Intel Management Engine: Fitur, Keamanan, dan Kompatibilitas</h1>
+
+      <div id="lead" class="my-6">
+
+        <p class="font-bold"> </p>
+
+      </div>
+      
+      <div id="writer" class="flex items-center space-x-4">
+
+        <img class="w-12 h-12 bg-black rounded-full" src="https://www.oktrik.com/images/avatar.jpg" alt="rosari j avatar" width="383" height="336">
+
+        <ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
+          
+          <li class="font-semibold my-2">rosari j</li>
+          
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2"><time datetime="2017-12-26T16:36:00&#43;07:00">December 26, 2017</time>
+          </li>
+
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
+            11 min read
+          </li>
+
+        </ul>
+
+      </div>
+      
+    </header>
+
+    <figure id="featureimage" class="rounded-xl aspect-video">
+
+    </figure>
+
+    <div id="content" class="mb-14">
+      <p>Intel Management Engine (ME) adalah teknologi yang dikembangkan oleh Intel yang memungkinkan komputer untuk dikelola dan dikendalikan secara remote. Ini merupakan komponen penting dari sistem manajemen komputer yang digunakan oleh perusahaan dan bisnis.</p>
+<p>Dalam artikel ini, kami akan menjelaskan fitur-fitur dari Intel ME, pembaruan firmware, kompatibilitas driver dengan sistem operasi yang berbeda, keamanan dan kerentanan, serta hubungannya dengan Intel Active Management Technology (AMT) dan teknologi manajemen lainnya.</p>
+<p>Kami juga akan membahas peran Intel ME dalam komputasi bisnis dan perusahaan, jenis-jenis prosesor Intel dan kapabilitas ME, dampak dari menonaktifkan atau menghapus ME pada kinerja dan fungsi komputer, dan cara mengatasi masalah yang mungkin terjadi.</p>
+<h2 id="features-dari-intel-me"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlg1gAUZZ4akRQtklH-QQqbZohA0xsrolccTi_wgn7iaLIEHE035QsZwB54M1PzH8FilKEi_lrv2RXqUoxTjKYRL-enPbGCPUD4EmDqyYMXmPM1HQ-T_qHZO30Hi3eQ9zxfcAcXC3x-Gqe1FGXkK0_DjzeGMjxfGoxcIWhAFi1JRZQBPfp4Qj2EoL56g/s800/ime-1-800x500.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlg1gAUZZ4akRQtklH-QQqbZohA0xsrolccTi_wgn7iaLIEHE035QsZwB54M1PzH8FilKEi_lrv2RXqUoxTjKYRL-enPbGCPUD4EmDqyYMXmPM1HQ-T_qHZO30Hi3eQ9zxfcAcXC3x-Gqe1FGXkK0_DjzeGMjxfGoxcIWhAFi1JRZQBPfp4Qj2EoL56g/w640-h400/ime-1-800x500.jpg" alt="Pelajari fitur Intel Management Engine" title="Keamanan, dan Kompatibilitas dalam Teknologi Bisnis dan IoT"></a>
+Features dari Intel ME</h2>
+<p>Intel Management Engine (ME) adalah teknologi yang dikembangkan oleh Intel yang menyediakan berbagai fitur tambahan pada komputer yang menggunakan prosesor Intel. Fitur-fitur ini termasuk pengelolaan daya, kontrol kinerja, dan pengelolaan jaringan. Salah satu fitur utama dari Intel ME adalah Active Management Technology (AMT), yang memungkinkan administrator jaringan untuk mengakses dan mengelola komputer yang terhubung ke jaringan meskipun sistem operasi tidak berfungsi atau dimatikan.</p>
+<p>Selain itu, Intel ME juga menyediakan fitur seperti pengelolaan kinerja, yang memungkinkan komputer untuk mengoptimalkan kinerja dengan cara mengatur konsumsi daya dan kinerja prosesor. Fitur ini sangat berguna bagi pengguna yang ingin meningkatkan kinerja komputer tanpa harus mengubah pengaturan sistem operasi.</p>
+<p>Selain itu, Intel ME juga menyediakan fitur pengelolaan jaringan yang memungkinkan komputer untuk terhubung ke jaringan dengan cara yang aman dan efisien. Fitur ini sangat berguna bagi pengguna yang ingin mengakses komputer dari jarak jauh atau mengelola komputer yang terhubung ke jaringan.</p>
+<p>Secara keseluruhan, Intel ME adalah teknologi yang sangat berguna yang menyediakan berbagai fitur tambahan yang memungkinkan komputer untuk bekerja lebih baik dan lebih efisien. Namun, teknologi ini juga memiliki potensi keamanan yang perlu diperhatikan.</p>
+<h2 id="perbaruan-firmware-dan-versi-intel-me">Perbaruan Firmware dan Versi Intel ME</h2>
+<p>Intel Management Engine (ME) adalah teknologi yang dikembangkan oleh Intel yang memungkinkan kontrol dan manajemen yang lebih baik pada perangkat keras komputer. Salah satu fitur penting dari Intel ME adalah kemampuannya untuk menerima perbaruan firmware. Ini memungkinkan pembaruan keamanan dan perbaikan bug yang mungkin muncul seiring waktu.</p>
+<p>Perbaruan firmware dapat dilakukan melalui sistem operasi atau melalui BIOS. Namun, perbaruan firmware harus dilakukan dengan hati-hati untuk menghindari masalah kompatibilitas atau kerusakan pada perangkat keras.</p>
+<p>Selain itu, Intel ME juga memiliki sistem versi yang memungkinkan untuk mengetahui versi firmware yang saat ini digunakan pada perangkat keras. Hal ini sangat penting untuk mengetahui versi firmware yang digunakan sebelum melakukan perbaruan, untuk memastikan kompatibilitas dan keamanan.</p>
+<p>Secara umum, perbaruan firmware dan versi Intel ME sangat penting untuk menjaga kinerja dan keamanan perangkat keras komputer. Namun, perlu diingat bahwa perbaruan firmware harus dilakukan dengan hati-hati dan dengan memperhatikan versi yang digunakan.</p>
+<h2 id="drivers-and-compatibility">Drivers and Compatibility</h2>
+<p>Intel Management Engine (ME) adalah teknologi yang memungkinkan komputer untuk melakukan manajemen dan pemantauan dari jarak jauh. Salah satu fitur penting dari teknologi ini adalah driver yang digunakan untuk mengakses dan mengelola ME. Namun, kompatibilitas driver tersebut dengan sistem operasi yang digunakan juga merupakan faktor penting untuk diperhatikan.</p>
+<p>Driver Intel ME dapat digunakan pada berbagai jenis sistem operasi seperti Windows, Linux, dan MacOS. Namun, kompatibilitasnya akan tergantung pada versi sistem operasi yang digunakan. Beberapa driver mungkin hanya kompatibel dengan versi tertentu dari sistem operasi, sehingga penting untuk memastikan bahwa driver yang digunakan sesuai dengan versi sistem operasi yang digunakan.</p>
+<p>Selain itu, versi firmware Intel ME juga harus diperhatikan dalam hal kompatibilitas driver. Firmware yang lebih baru mungkin memerlukan driver yang lebih baru pula, sehingga penting untuk memastikan bahwa firmware dan driver yang digunakan sesuai dengan versi yang didukung.</p>
+<p>Pembaruan firmware dan driver dapat dilakukan melalui situs web resmi Intel atau melalui perangkat lunak yang disediakan oleh pemasok sistem. Namun, perlu diingat bahwa pembaruan firmware dan driver dapat mempengaruhi kinerja sistem, sehingga disarankan untuk melakukan backup data sebelum melakukan pembaruan.</p>
+<p>Secara umum, kompatibilitas driver dan firmware Intel ME merupakan faktor penting yang harus diperhatikan dalam manajemen dan pemantauan komputer dari jarak jauh menggunakan teknologi Intel ME.</p>
+<h2 id="celah-keamanan-dan-kelemahan-pada-intel-management-engine-me">Celah Keamanan dan Kelemahan pada Intel Management Engine (ME)</h2>
+<p>Intel Management Engine (ME) adalah teknologi yang dikembangkan oleh Intel untuk mengelola komputer dari jarak jauh. Meskipun ini memungkinkan pengelolaan yang lebih efisien dari perangkat keras dan perangkat lunak, ada beberapa masalah keamanan yang dapat terjadi dengan ME.</p>
+<p>Salah satu masalah utama dengan ME adalah bahwa ia memiliki akses ke sistem operasi komputer dan dapat mengeksekusi perintah tanpa persetujuan pengguna. Hal ini berarti bahwa jika seseorang berhasil meretas ME, mereka dapat mengambil alih kontrol komputer.</p>
+<p>Selain itu, ME juga dapat terkena serangan &ldquo;man-in-the-middle&rdquo; yang memungkinkan peretas untuk menyadap komunikasi antara ME dan server manajemen. Ini dapat mengakibatkan pengungkapan informasi sensitif seperti kredensial manajemen atau data pribadi.</p>
+<p>Untuk mengatasi masalah keamanan ini, Intel telah merilis update firmware yang dapat memperbaiki kerentanan dan meningkatkan keamanan ME. Namun, penting untuk diingat bahwa selalu ada risiko keamanan yang terkait dengan teknologi jarak jauh manajemen seperti ME.</p>
+<h2 id="enterprise-and-business-computing">Enterprise and Business Computing</h2>
+<p>Intel Management Engine (ME) adalah teknologi yang digunakan oleh Intel untuk menyediakan kontrol dan manajemen pada perangkat keras komputer. Dalam dunia bisnis dan enterprise, ME sangat penting karena memungkinkan IT administrator untuk melakukan manajemen jarak jauh pada perangkat yang terhubung ke jaringan. Hal ini memungkinkan administrator untuk melakukan tugas seperti mengatur keamanan, mengelola software, dan memecahkan masalah dari jarak jauh tanpa harus mengunjungi setiap perangkat secara fisik.</p>
+<p>Selain itu, Intel Active Management Technology (AMT) juga merupakan fitur yang ditawarkan oleh ME. AMT memungkinkan administrator untuk mengakses perangkat yang terhubung ke jaringan meskipun perangkat tersebut sedang dalam keadaan mati atau tidak dalam kondisi operasional. Ini sangat berguna dalam situasi darurat ketika perangkat harus diperbaiki atau diperbarui secara cepat.</p>
+<p>ME juga memungkinkan manajemen energi yang efisien pada perangkat keras komputer. Hal ini memungkinkan perusahaan untuk menghemat biaya listrik dan memperpanjang umur pakai perangkat.</p>
+<p>Secara keseluruhan, Intel ME sangat penting dalam dunia bisnis dan enterprise karena memungkinkan manajemen yang lebih efisien dan efektif pada perangkat komputer. Namun, seperti dengan teknologi lainnya, ME juga memiliki beberapa kelemahan dalam hal keamanan yang harus diperhatikan oleh administrator jaringan.</p>
+<h2 id="tipe-dari-intel-processors-dan-me-capabilities">Tipe dari Intel Processors dan ME Capabilities</h2>
+<p>&ldquo;Intel Management Engine (ME) adalah teknologi yang dikembangkan oleh Intel untuk menyediakan manajemen dan kontrol yang dapat diandalkan pada perangkat keras komputer. Ini dapat digunakan untuk mengakses fitur seperti remote management, power management, dan pengaturan keamanan.</p>
+<p>Ada berbagai jenis prosesor Intel yang dilengkapi dengan teknologi ME, termasuk prosesor Intel Core, Xeon, Pentium, dan Celeron. Kemampuan ME yang tersedia akan bervariasi tergantung pada jenis prosesor yang digunakan. Beberapa prosesor Intel Core mungkin menawarkan fitur seperti remote management yang lebih kuat dibandingkan dengan prosesor Intel Celeron.</p>
+<p>Prosesor Intel yang lebih baru cenderung memiliki kemampuan ME yang lebih baik dibandingkan dengan prosesor yang lebih lama. Namun, itu tidak berarti bahwa prosesor yang lebih lama tidak dapat dilengkapi dengan teknologi ME. Intel telah mengembangkan dukungan untuk prosesor yang lebih lama melalui pembaruan firmware dan driver yang tersedia.</p>
+<p>Dalam hal ini, penting untuk mengetahui jenis prosesor yang digunakan pada komputer dan mengecek untuk melihat apakah ada pembaruan firmware atau driver yang tersedia untuk meningkatkan kemampuan ME. Ini akan memungkinkan pengguna untuk menikmati fitur manajemen yang lebih baik dan kontrol yang lebih kuat atas komputer mereka.</p>
+<h2 id="menonaktifkan-atau-menghapus-me-dan-efeknya-pada-performance-dan-functionality">Menonaktifkan atau menghapus ME dan efeknya pada Performance dan Functionality</h2>
+<p>&ldquo;Teknologi Intel Management Engine (ME) merupakan fitur yang digunakan dalam perangkat keras komputer untuk mengelola dan mengontrol komponen-komponen internal. Namun, ada beberapa kekhawatiran tentang keamanan dan privasi yang menyertai penggunaan ME. Ada juga perbedaan dalam kapabilitas ME yang ditawarkan oleh jenis-jenis prosesor Intel yang berbeda.</p>
+<p>Dalam beberapa kasus, beberapa pengguna mungkin memutuskan untuk menonaktifkan atau menghapus ME dari sistem mereka. Namun, tindakan ini dapat memiliki dampak negatif pada kinerja dan fungsi sistem. Sebelum memutuskan untuk menonaktifkan atau menghapus ME, ada baiknya untuk mempertimbangkan efek yang mungkin terjadi dan mengevaluasi apakah tindakan tersebut benar-benar diperlukan.</p>
+<p>Secara umum, penting untuk mengetahui fitur, keamanan, dan kapabilitas dari Intel ME sebelum memutuskan untuk mengaktifkan atau menonaktifkan fitur ini. Juga penting untuk memahami bagaimana ME bekerja dengan perangkat keras dan perangkat lunak lainnya dalam sistem komputer, serta perbedaan dalam kapabilitas yang ditawarkan oleh jenis-jenis prosesor yang berbeda.</p>
+<h2 id="perbandingan-me-terhadap-system-management-technologies-lainnya">Perbandingan ME terhadap system Management Technologies lainnya</h2>
+<p>Intel Management Engine (ME) adalah teknologi yang digunakan untuk mengelola komputer dari jarak jauh. Namun, teknologi manajemen lain juga tersedia di pasar, seperti AMI BIOS dan Dell vPro. Perbedaan utama antara ME dan teknologi manajemen lainnya adalah bahwa ME berfungsi pada tingkat yang lebih rendah dari sistem, sehingga memungkinkan pengontrolan yang lebih baik dan lebih cepat. Namun, ini juga membuat ME lebih rentan terhadap serangan keamanan. Oleh karena itu, perlu diketahui bagaimana cara mengelola dan mengatur keamanan ME agar dapat digunakan dengan aman dan efektif.</p>
+<h2 id="troubleshooting-dan-resolving-issues">Troubleshooting dan Resolving Issues</h2>
+<p>Troubleshooting dan Resolving Issues merupakan bagian penting dalam pengelolaan teknologi Intel Management Engine (ME). Meskipun ME dapat memberikan banyak manfaat dalam hal pengelolaan sistem komputer, tetapi masalah teknis dapat terjadi dari waktu ke waktu. Dalam hal ini, penting untuk dapat mengatasi masalah yang terjadi dengan cepat dan tepat.</p>
+<p>Salah satu masalah yang sering terjadi pada ME adalah masalah kompatibilitas dengan sistem operasi. Untuk mengatasi masalah ini, Anda dapat mencoba meng-update driver dan firmware ME ke versi terbaru. Jika masalah masih tetap terjadi, Anda dapat mencoba menonaktifkan atau menghapus ME dari sistem komputer Anda. Namun, perlu diingat bahwa tindakan ini dapat mempengaruhi kinerja dan fungsi sistem komputer Anda.</p>
+<p>Masalah lain yang mungkin terjadi pada ME adalah masalah keamanan. Beberapa kerentanan keamanan telah ditemukan pada ME, yang dapat digunakan oleh peretas untuk mengambil alih kontrol sistem komputer. Untuk mengatasi masalah ini, Anda dapat meng-update firmware ME ke versi terbaru yang menyertakan perbaikan keamanan.</p>
+<p>Selain itu, Anda juga dapat mengikuti panduan troubleshooting yang diberikan oleh Intel dan mencari bantuan dari komunitas pengguna ME. Namun, jika masalah tetap tidak dapat diselesaikan, Anda mungkin perlu mencari bantuan dari teknisi komputer yang berpengalaman.</p>
+<p>Dalam keseluruhan, troubleshooting dan resolving issues pada Intel ME memerlukan pendekatan yang tepat dan hati-hati. Dengan mengikuti panduan dan bantuan yang tersedia, Anda dapat mengatasi masalah yang mungkin terjadi pada teknologi ME dan tetap menikmati manfaat yang diberikan olehnya.</p>
+<h2 id="hubungan-dengan-bios-firmware-virtualization-dan-cloud-computing">Hubungan dengan BIOS, Firmware, Virtualization, dan Cloud Computing</h2>
+<p>Intel Management Engine (ME) merupakan teknologi yang digunakan untuk mengatur dan mengontrol kinerja dari komputer yang menggunakan prosesor Intel. Salah satu hubungan penting dari ME adalah dengan firmware komputer, BIOS, virtualisasi, dan cloud computing.</p>
+<p>Firmware adalah perangkat lunak yang ditempatkan pada memory non-volatile seperti ROM, EPROM, atau flash memory yang digunakan untuk memberikan dukungan sistem pada komputer. ME memiliki akses ke firmware komputer untuk mengatur kinerja dari komputer tersebut.</p>
+<p>BIOS (Basic Input/Output System) adalah perangkat lunak yang mengontrol komunikasi antara perangkat keras dan perangkat lunak sistem pada komputer. ME memiliki akses ke BIOS untuk mengontrol kinerja dari komputer tersebut.</p>
+<p>Virtualisasi adalah teknologi yang memungkinkan satu mesin fisik untuk digunakan sebagai beberapa mesin virtual. ME memiliki akses ke virtualisasi untuk mengatur kinerja dari mesin virtual tersebut.</p>
+<p>Cloud computing adalah model penyediaan layanan yang menyediakan akses ke perangkat keras, perangkat lunak, dan jasa melalui jaringan internet. ME memiliki akses ke cloud computing untuk mengatur kinerja dari komputer yang terhubung ke cloud tersebut.</p>
+<p>Secara keseluruhan, ME memiliki kontrol yang cukup besar terhadap kinerja komputer, baik melalui akses ke firmware, BIOS, virtualisasi, maupun cloud computing. Namun, hal ini juga berarti bahwa jika terdapat masalah pada ME, maka kinerja komputer juga akan terpengaruh.</p>
+<h2 id="hubungan-dengan-iot-dan-embedded-systems">Hubungan dengan IoT dan Embedded Systems</h2>
+<p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCtMXyTuaJNhSZ-rYXbKPEaV0UXmVASUZq15rciNtU0M1t6fz52qIXeTsGbMezwQDvlTIeVE1Eaj2j0jG6R_19XFx-auGjlDh5SXtsAX7dSgPLrztDoObSFpL3RwOUJn634I4WZl0LdlxL7CkgnVNNp8eZk7hLQrhic3S_c7JnpTE6vIjgpW2b8dpAZQ/s639/INTEL-ME.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCtMXyTuaJNhSZ-rYXbKPEaV0UXmVASUZq15rciNtU0M1t6fz52qIXeTsGbMezwQDvlTIeVE1Eaj2j0jG6R_19XFx-auGjlDh5SXtsAX7dSgPLrztDoObSFpL3RwOUJn634I4WZl0LdlxL7CkgnVNNp8eZk7hLQrhic3S_c7JnpTE6vIjgpW2b8dpAZQ/w640-h481/INTEL-ME.jpg" alt="Intel Management Engine: Fitur, Keamanan, dan Kompatibilitas dalam Teknologi Bisnis dan IoT"></a>
+Intel Management Engine (ME) merupakan teknologi yang dikembangkan oleh Intel untuk mengelola komputer dan perangkat lain yang menggunakan prosesor Intel. Selain itu, ME juga memiliki hubungan dengan Internet of Things (IoT) dan sistem terbenam.</p>
+<p>IoT adalah jaringan yang terdiri dari perangkat yang terhubung ke internet dan saling berinteraksi. ME dapat digunakan untuk mengelola perangkat IoT yang menggunakan prosesor Intel dan memungkinkan untuk mengontrol dan mengakses perangkat tersebut dari jarak jauh.</p>
+<p>Embedded Systems adalah sistem yang digunakan dalam perangkat yang tidak dapat diakses secara langsung oleh pengguna. ME dapat digunakan untuk mengelola sistem terbenam yang menggunakan prosesor Intel dan memungkinkan untuk mengontrol dan mengakses sistem tersebut dari jarak jauh.</p>
+<p>Namun, perlu diingat bahwa hubungan ME dengan IoT dan Embedded Systems juga membawa risiko keamanan. Seperti halnya dengan komputer pribadi, perangkat IoT dan Embedded Systems yang menggunakan ME juga dapat menjadi sasaran serangan cyber jika tidak dilindungi dengan baik. Oleh karena itu, penting untuk selalu memperbarui firmware dan menjaga sistem terbaru agar tetap aman.</p>
+<h2 id="kesimpulan-dan-penutup">Kesimpulan Dan Penutup</h2>
+<p>Intel Management Engine (ME) adalah teknologi yang dikembangkan oleh Intel yang memberikan fitur-fitur manajemen dan keamanan pada komputer. Fitur-fitur ini meliputi remote management, kontrol akses, dan monitoring sistem. ME juga memungkinkan perangkat untuk tetap dalam mode &ldquo;always on&rdquo; sehingga dapat diakses dari jarak jauh.</p>
+<p>Perbaruan firmware dan versi ME sangat penting untuk menjaga kinerja dan keamanan sistem. Driver yang kompatibel dengan berbagai sistem operasi juga diperlukan untuk memastikan ME dapat berfungsi dengan baik. Namun, seperti semua perangkat lunak, ME juga memiliki kerentanan keamanan yang perlu diperhatikan.</p>
+<p>ME juga memiliki peran penting dalam dunia bisnis dan enterprise computing. Berbagai jenis prosesor Intel dan kemampuan ME yang berbeda-beda dapat mempengaruhi pengalaman pengguna. Namun, menonaktifkan atau menghapus ME dapat mempengaruhi kinerja dan fungsi sistem.</p>
+<p>ME dapat dibandingkan dengan teknologi manajemen lain seperti AMI BIOS dan Dell vPro. Memecahkan masalah dengan ME juga dapat diatasi melalui troubleshooting dan resolving issues.</p>
+<p>ME memiliki hubungan yang erat dengan BIOS, firmware, virtualisasi, dan cloud computing. ME juga memiliki peran penting dalam dunia internet of things (IoT) dan sistem terintegrasi.</p>
+<h2 id="referensi">Referensi:</h2>
+<p>Intel: <a href="https://www.intel.com/content/www/us/en/support/articles/000005524/technology-provider-tools/intel-active-management-technology.html">https://www.intel.com/content/www/us/en/support/articles/000005524/technology-provider-tools/intel-active-management-technology.html</a><br>
+Intel Security: <a href="https://www.intel.com/content/www/us/en/security-center/default.html">https://www.intel.com/content/www/us/en/security-center/default.html</a><br>
+Intel Business: <a href="https://www.intel.com/content/www/us/en/business/technology-provider-tools/active-management-technology.html">https://www.intel.com/content/www/us/en/business/technology-provider-tools/active-management-technology.html</a><br>
+Intel Processors: <a href="https://www.intel.com/content/www/us/en/processors/processors.html">https://www.intel.com/content/www/us/en/processors/processors.html</a>&rdquo;</p>
+
+
+    <ul id="taxonomy" class="not-prose flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
+
+      <li class="font-semibold my-4">Tags:</li>
+        <li ><a class="py-2 px-6 border rounded-full hover:bg-zinc-100 active:bg-zinc-300" href="../../tags/teknologi/">teknologi</a></li>
+    </ul>
+</div>
+
+    <footer id="content-footer" class="not-prose">
+
+      <div id="comment" class="border p-8 bg-zinc-100 rounded-2xl">
+
+        <h2 class="text-xl font-semibold">Comment</h2>
+
+        <p>Disqus comment here</p></div>
+
+      <div id="author-box" class="my-8 md:my-14 border p-8 bg-zinc-100 rounded-2xl">
+
+        <img class="w-20 h-20 rounded-full" src="../../images/avatar.jpg" alt="rosari j">
+
+        <h2 class="text-xl font-bold my-4">Writter by : rosari j</h2>
+
+        <p class="mb-4">rosari j is a versatile writer who covers a wide range of topics and subjects. With a passion for sharing knowledge and insights, rosari j writes about everything from technology and personal development to lifestyle and entertainment. rosari j goal is to engage and inform readers with well-researched and thought-provoking content.
+</p>
+
+        <ul class="flex flex-wrap space-x-4">
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank" rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+              </svg>
+              <span class="ml-2">Facebook</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank" rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"/>
+              </svg>
+              <span class="ml-2">Twitter</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank" rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                    <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+
+              </svg>
+              <span class="ml-2">Instagram</span>
+            </a>
+          </li>
+
+        </ul>
+        
+      </div>
+
+      <div id="related-post" class="">
+
+        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Recommended for You</h2>
+      </div>
+
+    </footer>
+
+  </article>
+
+  
+  <aside class="md:col-span-1"><div class="lg:sticky lg:top-8"><div class="rounded-2xl p-4 bg-zinc-100 mb-10">
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8410270452001273"
+     data-ad-slot="9279306563"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+		<p class="text-right text-xs mt-2 leading-none text-zinc-500">Adversitiment</p>
+
+</div><div class="space-y-6">
+
+		<h2 class="font-bold text-xl mb-8">Recent Post</h2>
+
+		<article class="relative group flex flex-row">
+	<a class="insert-link" href="https://www.oktrik.com/posts/fitur-dan-manfaat/"></a>
+	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl aspect-square bg-zinc-100"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="https://www.oktrik.com/images/Nginx-Plus_hu7899897815511d7a1ea269e689c57daa_99310_250x250_crop_q75_box_center.jpg" alt="Fitur dan Manfaat Nginx Plus" width="250" height="250">
+
+		
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Fitur dan Manfaat Nginx Plus</h3>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://www.oktrik.com/posts/perbedaan-mendasar-antar/"></a>
+	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl aspect-square bg-zinc-100"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="https://www.oktrik.com/images/nginx_hu13929dd31811c69be8d149d7145e407a_22287_250x250_crop_q75_box_center.jpg" alt="Perbedaan Mendasar Antara Apache dan NGINX dalam Dunia Server Web" width="250" height="250">
+
+		
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Perbedaan Mendasar Antara Apache dan NGINX dalam Dunia Server Web</h3>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://www.oktrik.com/posts/mengapa-impor-konten/"></a>
+	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl aspect-square bg-zinc-100"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="https://www.oktrik.com/images/blogspot_hucda177b8d069585bcd963b6b5d396619_91833_250x250_crop_q75_box_center.jpg" alt="Mengapa Impor Konten XML ke Blogspot Gagal dan Bagaimana Memperbaikinya" width="250" height="250">
+
+		
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Mengapa Impor Konten XML ke Blogspot Gagal dan Bagaimana Memperbaikinya</h3>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://www.oktrik.com/posts/solusi-mudah-wifi/"></a>
+	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl aspect-square bg-zinc-100"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="https://www.oktrik.com/images/wifi_hu9d30b12203b561818de4f34f01dfe238_215862_250x250_crop_q75_box_center.jpg" alt="Solusi Mudah: WiFi Tersambung di Android tapi Tidak Ada Akses Internet" width="250" height="250">
+
+		
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Solusi Mudah: WiFi Tersambung di Android tapi Tidak Ada Akses Internet</h3>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://www.oktrik.com/posts/panduan-lengkap-cara-kunci/"></a>
+	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl aspect-square bg-zinc-100"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="https://www.oktrik.com/images/lock2_hueeb72313f0b42882f5edc3a323c788be_118072_250x250_crop_q75_box_center.jpg" alt="Panduan Lengkap Cara Menyiapkan, Mengubah, dan Menghapus Layar Kunci di Ponsel Android" width="250" height="250">
+
+		
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Panduan Lengkap Cara Menyiapkan, Mengubah, dan Menghapus Layar Kunci di Ponsel Android</h3>
+	</div>
+</article>
+		
+	</div>
+
+</div>
+</aside>
+
+</div>
+  
+</main>
+  <footer class="bg-zinc-100 py-10 md:py-14"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+
+  <div class="flex flex-wrap space-y-6 mb-4">
+
+    <div class="w-full md:w-3/5 flex flex-col space-y-4 md:pr-8 lg:pr-10">
+
+      <a class="flex items-center group" href="https://www.oktrik.com/">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="mr-2 group-hover:animate-spin" viewBox="0 0 16 16">
+          <path d="M8 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+          <path d="M13.997 5.17a5 5 0 0 0-8.101-4.09A5 5 0 0 0 1.28 9.342a5 5 0 0 0 8.336 5.109 3.5 3.5 0 0 0 5.201-4.065 3.001 3.001 0 0 0-.822-5.216zm-1-.034a1 1 0 0 0 .668.977 2.001 2.001 0 0 1 .547 3.478 1 1 0 0 0-.341 1.113 2.5 2.5 0 0 1-3.715 2.905 1 1 0 0 0-1.262.152 4 4 0 0 1-6.67-4.087 1 1 0 0 0-.2-1 4 4 0 0 1 3.693-6.61 1 1 0 0 0 .8-.2 4 4 0 0 1 6.48 3.273z"/>
+        </svg>
+        
+        <span class="text-2xl font-semibold uppercase">Oktrik</span>
+      </a>
+
+      <p class="font-semibold">
+        Berkomitmen untuk menciptakan konten yang informatif dan menarik.
+      </p>
+
+      <p>Kami adalah ahli dalam teknologi dan tutorial, memberikan informasi mendalam untuk membantu Anda memahami dan menguasai teknologi terkini.</p>
+
+    </div>
+
+    <div class="self-center flex flex-col w-full md:w-2/5">
+
+<ul id="social-media" class="flex items-center space-x-4">
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.facebook.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+				<path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.twitter.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.github.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.instagram.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"></path>
+			</svg>
+		</a>
+	</li>
+</ul>
+
+    </div>
+    
+  </div>
+
+  <div class="my-8">
+    <ul class="flex items-center space-x-4">
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="../../">Home</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="../../posts/">Posts</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="../../tags/">Tags</a></li>
+      
+    </ul>
+  </div>
+
+  <div class="border-t pt-4">
+
+    <p class="text-sm">Copyright © 2024. All rights reserved. <a href="https://insertapps.com/en/" target="_blank" rel="noopener">Insertapps.com</a></p>
+
+  </div>
+  
+</div>
+</footer>
+      <script defer src="../../js/insertoggle.474f9b0e08021c6519cff4e46df14ccf148285b2d3a23d6321d6e10f25c291fb.js" integrity="sha256-R0&#43;bDggCHGUZz/TkbfFMzxSChbLToj1jIdbhDyXCkfs=" crossorigin="anonymous"></script>
+</body>
+</html>

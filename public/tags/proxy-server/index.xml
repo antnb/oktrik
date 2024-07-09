@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>proxy server on Oktrik</title>
+    <link>https://www.oktrik.com/tags/proxy-server/</link>
+    <description>Recent content in proxy server on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sat, 10 Feb 2018 16:29:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/proxy-server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Centos] Cara Mudah Install Squid Proxy Dengan Script Auto Install</title>
+      <link>https://www.oktrik.com/posts/centos-cara-mudah/</link>
+      <pubDate>Sat, 10 Feb 2018 16:29:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/centos-cara-mudah/</guid>
+      <description>Artikel ini akan menunjukkan cara Install Squid Proxy di centos 5 dan mengkonfigurasi Firefox dan Chrome untuk menggunakannya.&#xA;Squid Proxy server Squid adalah proxy caching berfitur lengkap yang mendukung HTTP, HTTPS, FTP, dan protokol jaringan utama lainnya. Ini dapat digunakan untuk mempercepat server web dengan menyimpan kueri berulang, memfilter lalu lintas web, dan mendapatkan akses ke konten yang dibatasi secara geografis.&#xA;Squid Proxy Adalah software dengan lisensi open source gratisan yang menawarkan beragam keunggulan diantaranya adalah multi platform,full control terhadap berbagai aspek yang ditawarkan oleh squid, sanggup melakukan filter terhadap trafic yang dihandle, suport mengolah lalu lintas bermacam macam internet protokol seperti HTTPS,FTP dan beragam keunggulan lain nya dibandingkan dengan software proxy lain nya.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>registry on Oktrik</title>
+    <link>https://www.oktrik.com/tags/registry/</link>
+    <description>Recent content in registry on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Tue, 27 Nov 2018 18:20:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/registry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara memperbaiki history google chrome Yang Hilang (Korup)</title>
+      <link>https://www.oktrik.com/posts/cara-memperbaiki-history/</link>
+      <pubDate>Tue, 27 Nov 2018 18:20:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-memperbaiki-history/</guid>
+      <description>Pernahkah anda saat memulai session browsing internet menggunakan Google Chrome dan akan meneruskan session sebelumnya namun saat membuka tabs history google chrome kosong atau semua url tidak terdaftar pada menu history Google Chrome? Hal ini terjadi dikarenakan Korupnya Profile User Pada Google Chrome anda&#xA;langkah langkah Cara Memperbaiki Riwayat atau history yang kosong pada Google Chome 1.Export bookmarks Pada Google Chome anda Jika Pada Profile Google Chrome anda telah melakukan sign in, maka anda tidak perlu melakukan export bookmark karena semua aktifitas anda telah di sinkronkan melalui cloud server Google chrome.</description>
+    </item>
+    <item>
+      <title>Tips Mengatasi update windows yang error</title>
+      <link>https://www.oktrik.com/posts/tips-mengatasi-update/</link>
+      <pubDate>Sat, 24 Nov 2018 18:24:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/tips-mengatasi-update/</guid>
+      <description>Ada Kalanya saat kita hendak akan mengupdate systim pada instalasi windows kita terdapat error dengan notifikasi sebagai berikut &amp;ldquo;Windows update cannot currently check for updates because the service is not running. You may need to restart your computer&amp;rdquo; yang mengindikasi adanya kesalahan pada sistim update secara otomatis pada windows kita.&#xA;Hal ini tentunya cukup merepotkan karena dengan tidak berfungsinya fitur Sytem Update pada komputer yang kita gunakan tidak akan mendapatkan Update terbaru yang diperlukan oleh aplikasi aplikasi yang terinstal pada komputer kita Belum lagi masalah keamanan seperti serangan virus dan hacker</description>
+    </item>
+    <item>
+      <title>Cara Mudah Mengedit Dan Membuat Backup Windows Registry</title>
+      <link>https://www.oktrik.com/posts/cara-mudah-mengedit/</link>
+      <pubDate>Thu, 24 May 2018 16:19:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-mudah-mengedit/</guid>
+      <description>Apakah mengedit registry membuat anda takut jika akan ada masalah dikemudian hari terhadap sistim ataupun software dalam komputer anda? Anda Dapat membuang key dan value dari registry sistem tanpa perlu yang dijelaskan dalam artikel berikut ini&#xA;Tentang Window Registry Database Windows Registry adalah sebuah sistem database yang menyimpan informasi tentang konfigurasi komputer dan aplikasi. Database ini digunakan oleh sistem operasi Windows untuk mengatur segala hal yang berhubungan dengan komputer, seperti pengaturan aplikasi, preferensi pengguna, dan banyak lagi.</description>
+    </item>
+  </channel>
+</rss>

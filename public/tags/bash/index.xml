@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bash on Oktrik</title>
+    <link>https://www.oktrik.com/tags/bash/</link>
+    <description>Recent content in bash on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sun, 22 Jul 2018 15:08:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Menggunakan perintah dasar linux CLI</title>
+      <link>https://www.oktrik.com/posts/cara-menggunakan-perintah/</link>
+      <pubDate>Sun, 22 Jul 2018 15:08:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-menggunakan-perintah/</guid>
+      <description>Perintah dasar linux tidak hanya untuk penggemar Unix kita akan melihat bagaimana melakukan semuanya dari keyboard.&#xA;Memaximalkan Kekuatan Linux Sebelumnya kita melihat hal-hal yang perlu diperhatikan sebelum instalasi. Kali ini kita mulai pembahasan kita secara singkat melihat desktop Linux. Untuk proses instalasi linux itu sendiri, bisa anda lihat pada artikel berikut.&#xA;Jika anda tidak mempunyai resource dan waktu untuk menginstal Linux, masih ada cara lain untuk masuk ke dunia Linux yang itu dengan menggunakan “live distro”.</description>
+    </item>
+  </channel>
+</rss>

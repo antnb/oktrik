@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gmail on Oktrik</title>
+    <link>https://www.oktrik.com/tags/gmail/</link>
+    <description>Recent content in gmail on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sat, 02 Dec 2017 17:21:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/gmail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Mengganti Tampilan GMail Dengan Custom Image</title>
+      <link>https://www.oktrik.com/posts/cara-mengganti-tampilan/</link>
+      <pubDate>Sat, 02 Dec 2017 17:21:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-mengganti-tampilan/</guid>
+      <description>Jika anda Sering berhubungan dengan client anda ataupun sering melakukan komunikasi menggunakan layanan yang disediakan oleh email provider Gmail maka adakalanya anda merasa bosan dengan tampilan standar yang disediakan oleh Tim Gmail.&#xA;Gmail memiliki fitur yang memungkinkan Anda untuk menyesuaikan latar belakang kotak masuk Anda. Anda dapat memilih dari pilihan latar belakang yang telah dibuat sebelumnya, atau Anda dapat mengunggah gambar Anda sendiri.&#xA;Meski Gmail sendiri telah menyediakan beberapa opsi tampilan theme yang dapat anda rubah rubah sendiri sesuai selera namun theme tersebut menggunakan gambar latar yang biasa biasa saja dan anda ingin mengganti latar belakang GMAIL dengan Gambar atau Foto yang anda miliki</description>
+    </item>
+  </channel>
+</rss>

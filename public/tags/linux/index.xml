@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Oktrik</title>
+    <link>https://www.oktrik.com/tags/linux/</link>
+    <description>Recent content in linux on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sun, 22 Jul 2018 15:08:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Menggunakan perintah dasar linux CLI</title>
+      <link>https://www.oktrik.com/posts/cara-menggunakan-perintah/</link>
+      <pubDate>Sun, 22 Jul 2018 15:08:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-menggunakan-perintah/</guid>
+      <description>Perintah dasar linux tidak hanya untuk penggemar Unix kita akan melihat bagaimana melakukan semuanya dari keyboard.&#xA;Memaximalkan Kekuatan Linux Sebelumnya kita melihat hal-hal yang perlu diperhatikan sebelum instalasi. Kali ini kita mulai pembahasan kita secara singkat melihat desktop Linux. Untuk proses instalasi linux itu sendiri, bisa anda lihat pada artikel berikut.&#xA;Jika anda tidak mempunyai resource dan waktu untuk menginstal Linux, masih ada cara lain untuk masuk ke dunia Linux yang itu dengan menggunakan “live distro”.</description>
+    </item>
+    <item>
+      <title>Distro linux paling ringan Yang Bisa Anda Coba Tanpa Perlu Di install</title>
+      <link>https://www.oktrik.com/posts/distro-linux-paling/</link>
+      <pubDate>Sat, 21 Jul 2018 15:13:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/distro-linux-paling/</guid>
+      <description>Anda mungkin ingin masuk ke dalam dunia Linux, tetapi merasa tidak mempunyai resource dan waktu untuk menginstalasi operacting system yang sepenuhnya baru. Secara singkat, kita akan melihat konsep booting Linux secara langsung dari CD dan juga beberapa distro linux paling ringan yang di rancang sangat spesifik.&#xA;Jadi anda ingin mencoba distribusi linux untuk satu alasan atau yang lain, tetapi tidak ingin menghabiskan waktu untuk menginstalasi ke harddisk hanya untuk mengetahui bahwa Linux sama sekali bukan untuk anda ?</description>
+    </item>
+    <item>
+      <title>Cara Install Linux Untuk Pemula [Mandrakelinux &amp; Ubuntu]</title>
+      <link>https://www.oktrik.com/posts/cara-install-linux/</link>
+      <pubDate>Thu, 19 Jul 2018 15:20:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-install-linux/</guid>
+      <description>Sekarang setelah [memilih distro Linux]({{ site.baseurl }}{% post_url 2018-07-21-distro-linux-paling-ringan-yang-bisa %}) yang ingin digunakan dan mempersiapkan segala sesuatunya, kita lanjutkan dengan melakukan proses instalasi linux itu sendiri. Dan langkah langkah cara instal linux akan kita bahas pada tulisan kali ini&#xA;Perbedaan distribusi Linux dan sistem operasi Linux Seperti yang Anda ketahui, sistem operasi linux adalah sistim operasi berbasis kernel open-source yang dapat digunakan secara gratis. sistem operasi linux digunakan oleh berbagai bahasa pemrogram, organisasi, bisnis nirlaba dan nirlaba di seluruh dunia untuk merancang sistem operasi yang memenuhi kebutuhan spesifik mereka.</description>
+    </item>
+  </channel>
+</rss>

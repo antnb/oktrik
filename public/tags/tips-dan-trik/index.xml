@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips dan Trik on Oktrik</title>
+    <link>https://www.oktrik.com/tags/tips-dan-trik/</link>
+    <description>Recent content in Tips dan Trik on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Fri, 12 May 2023 05:55:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/tips-dan-trik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengapa Impor Konten XML ke Blogspot Gagal dan Bagaimana Memperbaikinya</title>
+      <link>https://www.oktrik.com/posts/mengapa-impor-konten/</link>
+      <pubDate>Fri, 12 May 2023 05:55:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/mengapa-impor-konten/</guid>
+      <description>Jika Anda merupakan seorang blogger yang aktif di Blogspot, Anda mungkin pernah mengalami masalah saat melakukan impor konten. Fitur impor memungkinkan pengguna untuk memindahkan konten dari platform lain ke Blogspot dengan mudah, namun terdapat batasan pada fitur ini. Salah satunya adalah masalah &amp;ldquo;Sorry, but you have exceeded the maximum number of imports&amp;rdquo;, yang seringkali dialami oleh pengguna.&#xA;Pada artikel ini, kami akan membahas penyebab dari masalah ini serta memberikan solusi untuk mengatasi masalah tersebut.</description>
+    </item>
+    <item>
+      <title>Solusi Cepat dan Mudah untuk Mengubah JPG ke PDF: Cara Optimalkan Ukuran File Gambar Anda</title>
+      <link>https://www.oktrik.com/posts/cara-mengubah-jpg/</link>
+      <pubDate>Tue, 15 Nov 2022 20:33:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-mengubah-jpg/</guid>
+      <description>Mengubah file dari format JPG ke PDF adalah proses yang sering dilakukan ketika menyimpan atau mengirim gambar. PDF (Portable Document Format) adalah format file yang populer dan sering digunakan untuk menyimpan dokumen, termasuk gambar.&#xA;Format JPG sering digunakan untuk grafik web karena dapat dikompresi dan dimuat dengan cepat, namun format ini tidak selalu sesuai dengan kebutuhan. Format PDF memiliki beberapa keuntungan dibandingkan dengan JPG, seperti ukuran file yang lebih kecil, kompresi yang lebih baik, dan perlindungan terhadap pengeditan.</description>
+    </item>
+  </channel>
+</rss>

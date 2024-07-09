@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>audio on Oktrik</title>
+    <link>https://www.oktrik.com/tags/audio/</link>
+    <description>Recent content in audio on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sat, 07 Jul 2018 15:42:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Mudah Ripping CD ke MP3 (Kopi Mp3 Dari CD)</title>
+      <link>https://www.oktrik.com/posts/cara-mudah-ripping/</link>
+      <pubDate>Sat, 07 Jul 2018 15:42:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-mudah-ripping/</guid>
+      <description>Bila anda ingin mengubah format koleksi CD anda ke dalam bentuk MP3 agar mudah didengar di Komputer, cobalah untuk menggunakan software audio extractor ini. Selain sangat mudah penggunaannya, anda juga dapat memberikan identitas yang lengkap pada lagu yang akan di Ripping.&#xA;Jalankan Aplikasi MP3 Extractor Setelah menginstal program audio extractor yang telah kami sediakan ini, jalankan program tersebut. Masukkan CD lagu anda, kemudian pada daftar lagu yang muncul, pilih yang mana saja yang akan di rubah.</description>
+    </item>
+    <item>
+      <title>Cara Memperkecil Ukuran Video Tanpa Mengurangi Kualitas [Handbrake]</title>
+      <link>https://www.oktrik.com/posts/cara-memperkecil-ukuran/</link>
+      <pubDate>Tue, 05 Dec 2017 17:05:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-memperkecil-ukuran/</guid>
+      <description>Bagi anda yang sering melakukan convert video pastinya sudah tidak asing lagi dengan software yang bernama &amp;ldquo;HANDBRAKE&amp;rdquo;, Software untuk memperkecil ukuran video ini dibagikan secara gratis hampir untuk semua platform baik itu [Windows 10]({{ site.baseurl }}{% post_url 2018-11-28-cara-mempercepat-kinerja-komputer %}), MacOS X dan Linux. Handbrake adalah software konversi video Open source dan merupakan salah satu software terbaik dalam kategori aplikasi untuk convert video&#xA;Namun begitu untuk mendapatkan setingan terbaik saat proses mengecilkan file video sehingga mendapatkan hasil konversi video yang optimal bukanlah perkara yang mudah, terkadang kualitas hasil konversi sudah bagus namun Ukuran file yang dihasilkan sering kali berukuran terlalu besar.</description>
+    </item>
+  </channel>
+</rss>

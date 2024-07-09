@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webmaster on Oktrik</title>
+    <link>https://www.oktrik.com/tags/webmaster/</link>
+    <description>Recent content in webmaster on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Thu, 24 Aug 2023 09:39:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/webmaster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fitur dan Manfaat Nginx Plus</title>
+      <link>https://www.oktrik.com/posts/fitur-dan-manfaat/</link>
+      <pubDate>Thu, 24 Aug 2023 09:39:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/fitur-dan-manfaat/</guid>
+      <description>Nginx Plus adalah solusi web server berbayar yang menawarkan fitur-fitur canggih dan manfaat bagi pengembangan aplikasi web dan infrastruktur server. Dengan Nginx Plus, Anda tidak hanya mendapatkan keuntungan dari fitur dasar Nginx, tetapi juga berbagai tambahan yang membuatnya menjadi pilihan yang menarik. Beberapa fitur utama dan manfaat yang ditawarkan oleh Nginx Plus antara lain:&#xA;1. Session Persistence dalam Nginx Plus Session persistence adalah fitur yang memungkinkan permintaan dari klien diarahkan secara konsisten ke server yang sama.</description>
+    </item>
+    <item>
+      <title>Perbedaan Mendasar Antara Apache dan NGINX dalam Dunia Server Web</title>
+      <link>https://www.oktrik.com/posts/perbedaan-mendasar-antar/</link>
+      <pubDate>Wed, 23 Aug 2023 22:57:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/perbedaan-mendasar-antar/</guid>
+      <description>Dalam dunia web hosting dan pengelolaan situs web, pemilihan server web dapat memiliki dampak besar terhadap performa dan kinerja situs Anda. Dua server web yang sering dibandingkan adalah Apache dan NGINX. Meskipun keduanya bertujuan untuk mengirimkan konten web kepada pengguna, ada perbedaan mendasar dalam pendekatan dan karakteristik mereka.&#xA;Kelebihan dan Kekurangan Apache dan NGINX: Apache: Apache, yang dikenal sebagai &amp;ldquo;Apache HTTP Server&amp;rdquo;, telah menjadi pilihan utama administrator server selama bertahun-tahun. Kelebihan utamanya termasuk fleksibilitas yang luar biasa, dukungan untuk berbagai platform, dan modularitas yang tinggi.</description>
+    </item>
+  </channel>
+</rss>

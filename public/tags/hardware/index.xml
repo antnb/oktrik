@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hardware on Oktrik</title>
+    <link>https://www.oktrik.com/tags/hardware/</link>
+    <description>Recent content in hardware on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Thu, 08 Dec 2022 15:28:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu Bad Sector dan Bagaimana Cara Mengatasinya?</title>
+      <link>https://www.oktrik.com/posts/apa-itu-bad/</link>
+      <pubDate>Thu, 08 Dec 2022 15:28:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/apa-itu-bad/</guid>
+      <description>Bad sector adalah sektor pada disket, hard disk, atau media penyimpanan lainnya yang telah rusak atau rusak dan tidak dapat diakses. Ini berarti bahwa jika data disimpan di sektor yang rusak, itu tidak akan tersedia atau bisa dibaca. Bad sector seringkali disebabkan oleh keausan fisik, kerusakan akibat arus listrik, atau kerusakan akibat virus. Pengguna harus melakukan pemindaian untuk mendeteksi sektor buruk dan memperbaikinya untuk mencegah kerusakan data lebih lanjut.&#xA;Pendahuluan Bad sector merupakan sektor pada media penyimpanan data seperti harddisk yang terinfeksi oleh virus atau rusak, sehingga menyebabkan data di sektor tersebut tidak dapat diakses atau bahkan hilang.</description>
+    </item>
+    <item>
+      <title>Wireless LAN Jadul Namun Tahan Banting, Surecom EP-9001GP</title>
+      <link>https://www.oktrik.com/posts/wireless-lan-jadul/</link>
+      <pubDate>Fri, 27 Jul 2018 14:56:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/wireless-lan-jadul/</guid>
+      <description>Didirikan pada tahun 1987, Surecom telah menempatkan landasannya sebagai produsen alat-alat yang mengaplikasikan jaringan komputer, baik lokal maupun global. Produk Surecom mengonversikan data, suara sampai video dalam aplikasi networking/internetworking.&#xA;Target Surecom mulai dari pemakai komputer pribadi sampai perusahaan-perusahaan yang memanfaatkan teknologi jaringan IT. Surecom telah membuktikan kualitasnya produknya dengan memperoleh penghargaan dari PC Magazine, Chip Magazine, Nikkei Byte, Euro Trade dan symbol kualitas tertinggi di Taiwan “Symbol of Excellence Winner”.</description>
+    </item>
+    <item>
+      <title>Fungsi Bios Pada Perangkat Komputer (UEFI Dan BIOS)</title>
+      <link>https://www.oktrik.com/posts/fungsi-bios-pada/</link>
+      <pubDate>Thu, 30 Nov 2017 17:29:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/fungsi-bios-pada/</guid>
+      <description>Sering kali kita menemukan Istilah &amp;ldquo;BIOS&amp;rdquo; pada saat kita sedang mereparasi komputer, laptop atau pun saat kita sedang membaca artikel online di internet, Namun Apakah Bios itu. pengertian bios, kepanjangan bios, Kegunaan dan fungsi bios dalam komputer terkadang sebagian dari masyarakat tidak mengetahui apa itu bios sebenarnya yang dimaksud dengan Basic input output system?&#xA;Belum Lama ini Perusahaan Pengembang Prosesor Intel Mengumumkan Bahwa Penggunaan dan Support pendukung BIOS akan dimatikan pada tahun 2020 otomatis Setelah tahun tersebut tidak akan ada lagi komputer yang akan menggunakan basic input output system, dan Intel Pun mengumumkan bahwa BIOS (Basic Input Output System) pada tahun 2020 Akan digantikan oleh UEFI.</description>
+    </item>
+  </channel>
+</rss>

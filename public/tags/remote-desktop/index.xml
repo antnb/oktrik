@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>remote desktop on Oktrik</title>
+    <link>https://www.oktrik.com/tags/remote-desktop/</link>
+    <description>Recent content in remote desktop on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Tue, 26 Jun 2018 16:06:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/remote-desktop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Mengatasi &#34;An authentication error has occurred.The function requested is not supported&#34; Pada Koneksi RDP</title>
+      <link>https://www.oktrik.com/posts/cara-mengatasi-authentication/</link>
+      <pubDate>Tue, 26 Jun 2018 16:06:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-mengatasi-authentication/</guid>
+      <description>Bagi anda yang terbiasa bekerja menggunakan server atau anda yang memiliki server dengan OS windows khususnya sejak awal bulan mei 2018 tentu menghadapi kendala tidak dapat terkoneksi dengan server saat akan melakukan koneksi remote desktop atau RDP. begitu pula dengan saya, saya tidak dapat melakukan koneksi RDP kebeberapa server yang saya kelola dengan notifikasi pesan error&#xA;An authentication error has occurred.The function requested is not supported&#xA;Beragam cara saya lakukan namun tetap saja komputer klien tidak dapat tersambung menggunakan protokol Windows RDP.</description>
+    </item>
+  </channel>
+</rss>

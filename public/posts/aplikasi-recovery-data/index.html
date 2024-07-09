@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="id-ID" dir="ltr">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Aplikasi Recovery Data Flashdisk Dan MMC Untuk mengembalikan file yang terhapus | Oktrik</title>
+
+<meta name="description" content="">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8410270452001273" crossorigin="anonymous"></script>
+<link rel="canonical" href="https://www.oktrik.com/posts/aplikasi-recovery-data/" />
+      <link rel="stylesheet" href="../../css/main.min.584aed796ba9d245f84009d57da9662e9c02059611972780263728b442fc25ff.css" integrity="sha256-WErteWup0kX4QAnVfalmLpwCBZYRlyeAJjcotEL8Jf8=" crossorigin="anonymous">
+
+<link rel="icon" type="image/svg+xml" href="https://www.oktrik.com/favicon.svg"> 
+<link rel="icon" type="image/x-icon" href="https://www.oktrik.com/favicon.ico"> 
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.oktrik.com/favicon.png"> 
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.oktrik.com/favicon-32.png"> 
+<link rel="icon" type="image/png" sizes="64x64" href="https://www.oktrik.com/favicon-64.png"> 
+
+</head>
+<body>
+  <header class="py-6 border-b"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
+    <div class="flex items-center">
+        <div class="flex items-center">
+            <button class="flex items-center space-x-2 rounded-full border py-1 pr-[5px] pl-3 group bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="menu-bar">
+                <svg width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"></path>
+                </svg>
+                <span class="bg-blue-500 fill-white rounded-full p-1.5">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="group-hover:animate-spin bi bi-egg-fried fill-white" viewBox="0 0 16 16">
+                        <path d="M8 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"></path>
+                        <path d="M13.997 5.17a5 5 0 0 0-8.101-4.09A5 5 0 0 0 1.28 9.342a5 5 0 0 0 8.336 5.109 3.5 3.5 0 0 0 5.201-4.065 3.001 3.001 0 0 0-.822-5.216zm-1-.034a1 1 0 0 0 .668.977 2.001 2.001 0 0 1 .547 3.478 1 1 0 0 0-.341 1.113 2.5 2.5 0 0 1-3.715 2.905 1 1 0 0 0-1.262.152 4 4 0 0 1-6.67-4.087 1 1 0 0 0-.2-1 4 4 0 0 1 3.693-6.61 1 1 0 0 0 .8-.2 4 4 0 0 1 6.48 3.273z"></path>
+                    </svg>
+                </span>
+            </button>
+            <div class="relative rounded-full py-1.5 px-6 bg-zinc-100 hover:bg-zinc-200 text-xl font-bold uppercase mx-2">
+                <h2><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="https://www.oktrik.com/">Oktrik</a></h2>
+            </div>
+        </div>
+        <div class="flex items-center ml-auto">
+            <button class="flex items-center rounded-full p-3 bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="search-bar">
+                <svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+                    <path id="path1" class="transition-all ease-linear" d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+                    <path id="path2" class="transition-all ease-linear hidden" d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"></path>
+                </svg>
+            </button>
+        </div>
+    </div>
+<div id="search-bar" class="block mt-3 close">
+	<form id="search" class="flex items-stretch">
+		<input class="w-full block px-6 py-2 rounded-l-full focus:outline-none border border-zinc-200" type="text" placeholder="Search...">
+		<button class="flex items-center px-7 py-2.5 rounded-r-full border border-zinc-200 ">
+			<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="group-hover:animate-pulse" viewBox="0 0 16 16">
+				<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+			</svg>
+		</button>
+	</form>
+</div>
+</div>
+</header>
+  <main class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8"><div id="breadcrumb" class="max-w-7xl mx-auto py-8">
+	<ul class="flex space-x-4 text-sm text-zinc-500">
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase">
+			<a href="https://www.oktrik.com/">Oktrik</a>
+		</li>
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase">
+			<a href="https://www.oktrik.com/posts/">Posts</a>
+		</li>
+	</ul>
+</div><div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
+
+  <article class="md:col-span-2 prose lg:prose-lg">
+
+    <header class="not-prose">
+      
+      <h1 id="title" class="text-4xl font-bold leading-normal">Aplikasi Recovery Data Flashdisk Dan MMC Untuk mengembalikan file yang terhapus</h1>
+
+      <div id="lead" class="my-6">
+
+        <p class="font-bold"> </p>
+
+      </div>
+      
+      <div id="writer" class="flex items-center space-x-4">
+
+        <img class="w-12 h-12 bg-black rounded-full" src="https://www.oktrik.com/images/avatar.jpg" alt="rosari j avatar" width="383" height="336">
+
+        <ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
+          
+          <li class="font-semibold my-2">rosari j</li>
+          
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2"><time datetime="2018-07-04T15:57:00&#43;07:00">July 4, 2018</time>
+          </li>
+
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
+            5 min read
+          </li>
+
+        </ul>
+
+      </div>
+      
+    </header>
+
+    <figure id="featureimage" class="rounded-xl aspect-video">
+
+    </figure>
+
+    <div id="content" class="mb-14">
+      <p>Kadang tidak sengaja tangan kita memencet tombol erase pada kamera, sehingga data yang seharusnya dapat disimpan, hilang tidak sengaja, file terhapus untuk selamanya. Hal ini tentu sangat di sayangkan. Namun jangan takut ada banyak software dan aplikasi recovery data untuk mengembalikan file terhapus dan cara recovery data flashdisk dan MMC akan kita bahas dalam tulisan ini</p>
+<h2 id="tentang-kartu-mmc">Tentang Kartu MMC</h2>
+<p>Multimedia Card (MMC) adalah kartu memori digital flash solid-state sederhana dengan nama pendek. Kartu MMC adalah jenis perangkat penyimpanan data yang banyak digunakan. Media penyimpanan Ini ditemukan di berbagai gadget portabel, termasuk smartphone, kamera digital, pemutar media, dan banyak lagi.</p>
+<p>Kelebihan kartu MMC adalah dapat dengan cepat dipasang ke sistem PC untuk akses cepat ke data seperti gambar dan video. Data penting ini kadang-kadang bisa hilang secara tidak sengaja.</p>
+<p>Lantas, bagaimana jika file hilang di flashdisk? Apakah mungkin untuk memulihkan data hilang dari kartu MMC? Jika Anda memiliki salah satu dari masalah ini, jangan khawatir; Saya yakin bahwa artikel recovery file terhapus ini akan membantu Anda dalam menyelesaikan masalah Pemulihan Data di Kartu Multimedia Anda menggunakan aplikasi recovery data.</p>
+<h2 id="penyebab-paling-umum-file-di-flashdisk-hilang"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7vqwaRKn0Lb9WV_vAxnWYygJK52YWJsT_rrO4cEKzIospI2ZLBwnwvKxsoRKgT5S08bXMz7-E8h3GFESmSELoi7gbYhtGisxlm5owsfH4V6JFdvEd7s4DUaNR2AekBgBX3iCpqjvz7yV58QUpWti7cnDziOXyOxnyuqKwX6HDDBI6AKM_mKEQFb23PA/s800/recovery-1-800x500.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7vqwaRKn0Lb9WV_vAxnWYygJK52YWJsT_rrO4cEKzIospI2ZLBwnwvKxsoRKgT5S08bXMz7-E8h3GFESmSELoi7gbYhtGisxlm5owsfH4V6JFdvEd7s4DUaNR2AekBgBX3iCpqjvz7yV58QUpWti7cnDziOXyOxnyuqKwX6HDDBI6AKM_mKEQFb23PA/w640-h400/recovery-1-800x500.jpg" alt=""></a><br>
+ Penyebab Paling Umum file di flashdisk hilang</h2>
+<p>Berikut ini adalah beberapa kemungkinan penyebab data hilang dari kartu MMC:</p>
+<ol>
+<li>Foto atau file terhapus secara tidak sengaja atau tidak sengaja dari kartu MMC jika kartu tidak ditangani dengan benar.</li>
+<li>Tiba-tiba mencabut kartu MMC di tengah transfer file</li>
+<li>Infeksi virus</li>
+<li>Memformat kartu tanpa terlebih dahulu membuat cadangan data di dalamnya</li>
+<li>Saat daya rendah atau ada ruang kosong di kartu, menggunakan kamera atau ponsel</li>
+</ol>
+<h2 id="recovery-file-terhapus-pada-memory-card">Recovery file terhapus Pada Memory Card</h2>
+<p>Tetapi, kini anda tidak perlu panik karena data hilang dan file terhapus tersebut masih dapat diselamatkan menggunakan aplikasi recovery data dibawah ini. Caranya sangat mudah.</p>
+<h3 id="jalankan-aplikasi"><strong>Jalankan Aplikasi</strong></h3>
+<p>Download aplikasi recovery data Recovery Manager situs resminya, kemudian instal dan jalankan. Pada bagian sebelah kiri terdapat daftar Removable Storage apa saja yang pada saat itu terhubung ke komputer anda. Sedangkan di sebelah kanan berisikan informasi mengenai Removable Storage yang anda pilih.</p>
+<p>Mulai nama media, versi Firmware, Drive yang digunakan, kapasitas, label setiap volume serta file system. Selain itu, anda juga dapat mengetahui berapa jumlah kapasitas yang sudah terpakai atau berapa kapasitas yang kosong.</p>
+<p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwUXHniK6VoJNXlyLLdhbMEqWBET1pCNWNvenlh3Q4gjmXgx_ztLyRC0MHnKyZ6ua3O-GExAySggqz8WSok-rHFeYvugd86wsPX-jX_fzqQ4DjDJQrWN1EP1nd3Xe6MlFAk8DAmTCxrmNsP_XuXLMHe4m_cnsSYI5wvJ2Ix1Ia0CtUUliH7-OyIkFzOg/s646/filerecovery.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwUXHniK6VoJNXlyLLdhbMEqWBET1pCNWNvenlh3Q4gjmXgx_ztLyRC0MHnKyZ6ua3O-GExAySggqz8WSok-rHFeYvugd86wsPX-jX_fzqQ4DjDJQrWN1EP1nd3Xe6MlFAk8DAmTCxrmNsP_XuXLMHe4m_cnsSYI5wvJ2Ix1Ia0CtUUliH7-OyIkFzOg/w640-h472/filerecovery.jpg" alt=""></a><br>
+ ### <strong>Back Up</strong></p>
+<p>Bila ingin memback-up media yang anda miliki, pilih halaman backup. Proses back-up ini sama halnya dengan memindahkan seluruh isi media anda ke dalam komputer. Caranya cukup dengan menekan icon folder di sebelah boks backup file name.</p>
+<p>Lalu arahkan folder mana anda akan mem-back-up isi memori card. Berikan nama lalu tekan Save. Anda juga dapat langsung mem-back-up ke CD. Di bagian bawah anda ditanya, apakah akan mem-back-up bagian yang sudah terisi saja atau seluruhnya. Pilih saja yang anda inginkan. Lalu tekan tombol back-up.</p>
+<h3 id="restore"><strong>Restore</strong></h3>
+<p>Yang dimaksud Restore adalah menyimpan kembali file terhapus yang ada pada komputer ke dalam memori card. Selain menyimpan kembali file yang sudah dipindahkan, fitur ini juga dapat digunakan untuk memindahkan data dari komputer ke memori card.</p>
+<p>Asalkan formatnya adalah FMB. Caranya cukup menekan icon folder yang ada di sebelah boks Filename to Restore. Kemudian tentukan file yang akan dipindahkan ulang, kemudian tekan tombol Open. Setelah selesai menentukan file, tekan tombol Restore.</p>
+<p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaLmfGOlBlDNgyc3knG-46H01Ix-Jqd3aVZPSXKmLwYLcth04TVmJYCQIWUt1QM5Dge35sbLTunwlBRQKknFbVgNwpDC-gRgxYuKcHRKiiw-SO0Eh2ClDugHqeZrjCle6myDhOH-DB40rsAsqzWIrNIOjaxB1RDcxXuZPclAnl_bAjJsSTvZBFJK50DA/s640/file-terhapus.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaLmfGOlBlDNgyc3knG-46H01Ix-Jqd3aVZPSXKmLwYLcth04TVmJYCQIWUt1QM5Dge35sbLTunwlBRQKknFbVgNwpDC-gRgxYuKcHRKiiw-SO0Eh2ClDugHqeZrjCle6myDhOH-DB40rsAsqzWIrNIOjaxB1RDcxXuZPclAnl_bAjJsSTvZBFJK50DA/w640-h478/file-terhapus.png" alt=""></a><br>
+ ### <strong>Duplicate</strong></p>
+<p>Duplicate atau duplikasi dapat dilakukan langsung antar media yang terpasang tanpa harus memasukkan data ke komputer terlebih dahulu. Sebelum proses duplikasi dimulai, terlebih dahulu anda siapkan media (memori card) yang akan digunakan sebagai duplikatnya.</p>
+<p>Setelah itu barulah proses dimulai. Caranya tekan tombol Duplicate pada memori card yang ingin diduplikasi. Setelah komputer selesai membaca isi media yang pertama, ia akan meminta media lain sebagai tempat duplikasi. Masukkan memori card, lalu tekan OK. Hati-hati, karena bila terdapat isi pada media yang kedua, komputer secara otomatis akan menghapusnya.</p>
+<h3 id="recovery-data"><strong>Recovery Data</strong></h3>
+<p>Ini adalah halaman utama yang dinanti-nanti. Anda dapat me-recovery file terhapus dari memori card anda menggunakan aplikasi recovery data ini. Caranya sangat mudah, namun yang perlu diingat adalah jangan menyimpan apapun dahulu sebelum data hilang pada media selesai direcovery.</p>
+<p>Sebelum proses recovery dimulai, tekanlah tombol Option untuk menentukan format apa saja yang ingin di recover. Dibalik tombol Option, anda juga diminta untuk menentukan folder tempat file recovery akan berada, serta atribut lainnya yang berhubungan dengan proses Recovery.</p>
+<h3 id="format-media-card"><strong>Format Media Card</strong></h3>
+<p>Anda juga dapat langsung memformat media yang diinginkan melalui aplikasi recovery data ini. Semua atribut format lengkap disediakan pada halaman ini. Mulai dari format sistemnya sampai nama medianya. Format system yang ditawarkan umum, yaitu Quick dan Full.</p>
+<p>Bila menggunakan Quick, maka semua data hilang akan dihapus oleh komputer, hanya saja cara ini tidak akan me-recover blok rusak yang ada di media. Sedangkan dengan cara yang kedua (Full), tidak hanya data hilang yang akan dihapus tapi blok rusak juga akan di perbaiki. Hanya saja waktunya lebih panjang dari Quick.</p>
+<h2 id="menampilkan-file-tersembunyi-pada-kartu-sd-dan-flash-disk-menggunakan-cmd">Menampilkan file tersembunyi pada kartu SD Dan Flash Disk menggunakan CMD</h2>
+<p>Ada kemungkinan bahwa beberapa file di kartu SD Anda telah disembunyikan. CMD dapat digunakan untuk membuka file rahasia pada kartu SD atau flash drive. Sangat penting untuk memahami mengapa file disembunyikan untuk menghindari lebih banyak masalah.</p>
+<p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGdG9EUlWVBhycLGYNgdlyMiG4Qx4N81qVX7sASLfTHyJaeiduqn4fHaMCvSscOWjZQCrPAErOOcWGe0gHzYIj-arcS72G3AQQPOVmb7QdhFNm1v_rbT2t0jZAzfBRuKp6XiklffqV0D9yCApVqphWW0VjXdcXuIDiSculgDzylB-x5DnstPRQYMaWhQ/s1112/data-hilang1.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGdG9EUlWVBhycLGYNgdlyMiG4Qx4N81qVX7sASLfTHyJaeiduqn4fHaMCvSscOWjZQCrPAErOOcWGe0gHzYIj-arcS72G3AQQPOVmb7QdhFNm1v_rbT2t0jZAzfBRuKp6XiklffqV0D9yCApVqphWW0VjXdcXuIDiSculgDzylB-x5DnstPRQYMaWhQ/w640-h490/data-hilang1.jpg" alt=""></a><br>
+ ### Cara menggunakan CMD untuk memulihkan file tersembunyi dari kartu SD</p>
+<ol>
+<li>Langkah 1: sambungkan card reader paka komputer anda, kemudian sambungkan kartu SD ke komputer Anda.</li>
+<li>Langkah 2: Di jendela Run, tekan <code>Windows + R</code> dan ketik <code>CMD</code></li>
+<li>Langkah 3: Ketik perintah &ldquo;attrib&rdquo; ke jendela command prompt untuk membuat file tersembunyi terlihat. <code>attrib -h -r -s /s /d E:\*.*</code> (ganti E dengan huruf drive kartu SD) harus menjadi perintah lengkap.</li>
+</ol>
+<h2 id="kesimpulan">Kesimpulan</h2>
+<p>Semoga, Anda akan dapat memulihkan file terhapus dengan benar dari kartu MMC setelah menggunakan Alat Pemulihan Kartu MMC. Ketika Anda kehilangan data pada kartu multimedia Anda, hal pertama yang harus Anda lakukan adalah memeriksa apakah Anda memiliki cadangan. Ada baiknya jika Anda memiliki Flashdik atau MMC cadangan karena Anda dapat dengan mudah mengembalikan data yang hilang dari sana.</p>
+<p>Untuk mengembalikan file terhapus dari kartu MMC, Anda dapat menggunakan opsi prompt perintah. Jadi, saya yakin solusi ini cukup untuk orang yang salah kehilangan data dari kartu MMC.</p>
+<p> </p>
+
+
+    <ul id="taxonomy" class="not-prose flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
+
+      <li class="font-semibold my-4">Tags:</li>
+        <li ><a class="py-2 px-6 border rounded-full hover:bg-zinc-100 active:bg-zinc-300" href="../../tags/data-recovery/">data recovery</a></li>
+        <li ><a class="py-2 px-6 border rounded-full hover:bg-zinc-100 active:bg-zinc-300" href="../../tags/memory-card/">memory card</a></li>
+    </ul>
+</div>
+
+    <footer id="content-footer" class="not-prose">
+
+      <div id="comment" class="border p-8 bg-zinc-100 rounded-2xl">
+
+        <h2 class="text-xl font-semibold">Comment</h2>
+
+        <p>Disqus comment here</p></div>
+
+      <div id="author-box" class="my-8 md:my-14 border p-8 bg-zinc-100 rounded-2xl">
+
+        <img class="w-20 h-20 rounded-full" src="../../images/avatar.jpg" alt="rosari j">
+
+        <h2 class="text-xl font-bold my-4">Writter by : rosari j</h2>
+
+        <p class="mb-4">rosari j is a versatile writer who covers a wide range of topics and subjects. With a passion for sharing knowledge and insights, rosari j writes about everything from technology and personal development to lifestyle and entertainment. rosari j goal is to engage and inform readers with well-researched and thought-provoking content.
+</p>
+
+        <ul class="flex flex-wrap space-x-4">
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank" rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+              </svg>
+              <span class="ml-2">Facebook</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank" rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"/>
+              </svg>
+              <span class="ml-2">Twitter</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank" rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                    <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+
+              </svg>
+              <span class="ml-2">Instagram</span>
+            </a>
+          </li>
+
+        </ul>
+        
+      </div>
+
+      <div id="related-post" class="">
+
+        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Recommended for You</h2>
+      </div>
+
+    </footer>
+
+  </article>
+
+  
+  <aside class="md:col-span-1"><div class="lg:sticky lg:top-8"><div class="rounded-2xl p-4 bg-zinc-100 mb-10">
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8410270452001273"
+     data-ad-slot="9279306563"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+		<p class="text-right text-xs mt-2 leading-none text-zinc-500">Adversitiment</p>
+
+</div><div class="space-y-6">
+
+		<h2 class="font-bold text-xl mb-8">Recent Post</h2>
+
+		<article class="relative group flex flex-row">
+	<a class="insert-link" href="https://www.oktrik.com/posts/fitur-dan-manfaat/"></a>
+	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl aspect-square bg-zinc-100"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="https://www.oktrik.com/images/Nginx-Plus_hu7899897815511d7a1ea269e689c57daa_99310_250x250_crop_q75_box_center.jpg" alt="Fitur dan Manfaat Nginx Plus" width="250" height="250">
+
+		
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Fitur dan Manfaat Nginx Plus</h3>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://www.oktrik.com/posts/perbedaan-mendasar-antar/"></a>
+	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl aspect-square bg-zinc-100"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="https://www.oktrik.com/images/nginx_hu13929dd31811c69be8d149d7145e407a_22287_250x250_crop_q75_box_center.jpg" alt="Perbedaan Mendasar Antara Apache dan NGINX dalam Dunia Server Web" width="250" height="250">
+
+		
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Perbedaan Mendasar Antara Apache dan NGINX dalam Dunia Server Web</h3>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://www.oktrik.com/posts/mengapa-impor-konten/"></a>
+	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl aspect-square bg-zinc-100"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="https://www.oktrik.com/images/blogspot_hucda177b8d069585bcd963b6b5d396619_91833_250x250_crop_q75_box_center.jpg" alt="Mengapa Impor Konten XML ke Blogspot Gagal dan Bagaimana Memperbaikinya" width="250" height="250">
+
+		
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Mengapa Impor Konten XML ke Blogspot Gagal dan Bagaimana Memperbaikinya</h3>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://www.oktrik.com/posts/solusi-mudah-wifi/"></a>
+	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl aspect-square bg-zinc-100"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="https://www.oktrik.com/images/wifi_hu9d30b12203b561818de4f34f01dfe238_215862_250x250_crop_q75_box_center.jpg" alt="Solusi Mudah: WiFi Tersambung di Android tapi Tidak Ada Akses Internet" width="250" height="250">
+
+		
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Solusi Mudah: WiFi Tersambung di Android tapi Tidak Ada Akses Internet</h3>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://www.oktrik.com/posts/panduan-lengkap-cara-kunci/"></a>
+	<figure class="basis-1/3 aspect-square overflow-hidden rounded-2xl aspect-square bg-zinc-100"><img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="https://www.oktrik.com/images/lock2_hueeb72313f0b42882f5edc3a323c788be_118072_250x250_crop_q75_box_center.jpg" alt="Panduan Lengkap Cara Menyiapkan, Mengubah, dan Menghapus Layar Kunci di Ponsel Android" width="250" height="250">
+
+		
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Panduan Lengkap Cara Menyiapkan, Mengubah, dan Menghapus Layar Kunci di Ponsel Android</h3>
+	</div>
+</article>
+		
+	</div>
+
+</div>
+</aside>
+
+</div>
+  
+</main>
+  <footer class="bg-zinc-100 py-10 md:py-14"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+
+  <div class="flex flex-wrap space-y-6 mb-4">
+
+    <div class="w-full md:w-3/5 flex flex-col space-y-4 md:pr-8 lg:pr-10">
+
+      <a class="flex items-center group" href="https://www.oktrik.com/">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="mr-2 group-hover:animate-spin" viewBox="0 0 16 16">
+          <path d="M8 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+          <path d="M13.997 5.17a5 5 0 0 0-8.101-4.09A5 5 0 0 0 1.28 9.342a5 5 0 0 0 8.336 5.109 3.5 3.5 0 0 0 5.201-4.065 3.001 3.001 0 0 0-.822-5.216zm-1-.034a1 1 0 0 0 .668.977 2.001 2.001 0 0 1 .547 3.478 1 1 0 0 0-.341 1.113 2.5 2.5 0 0 1-3.715 2.905 1 1 0 0 0-1.262.152 4 4 0 0 1-6.67-4.087 1 1 0 0 0-.2-1 4 4 0 0 1 3.693-6.61 1 1 0 0 0 .8-.2 4 4 0 0 1 6.48 3.273z"/>
+        </svg>
+        
+        <span class="text-2xl font-semibold uppercase">Oktrik</span>
+      </a>
+
+      <p class="font-semibold">
+        Berkomitmen untuk menciptakan konten yang informatif dan menarik.
+      </p>
+
+      <p>Kami adalah ahli dalam teknologi dan tutorial, memberikan informasi mendalam untuk membantu Anda memahami dan menguasai teknologi terkini.</p>
+
+    </div>
+
+    <div class="self-center flex flex-col w-full md:w-2/5">
+
+<ul id="social-media" class="flex items-center space-x-4">
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.facebook.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+				<path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.twitter.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.github.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.instagram.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"></path>
+			</svg>
+		</a>
+	</li>
+</ul>
+
+    </div>
+    
+  </div>
+
+  <div class="my-8">
+    <ul class="flex items-center space-x-4">
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="../../">Home</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="../../posts/">Posts</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="../../tags/">Tags</a></li>
+      
+    </ul>
+  </div>
+
+  <div class="border-t pt-4">
+
+    <p class="text-sm">Copyright © 2024. All rights reserved. <a href="https://insertapps.com/en/" target="_blank" rel="noopener">Insertapps.com</a></p>
+
+  </div>
+  
+</div>
+</footer>
+      <script defer src="../../js/insertoggle.474f9b0e08021c6519cff4e46df14ccf148285b2d3a23d6321d6e10f25c291fb.js" integrity="sha256-R0&#43;bDggCHGUZz/TkbfFMzxSChbLToj1jIdbhDyXCkfs=" crossorigin="anonymous"></script>
+</body>
+</html>

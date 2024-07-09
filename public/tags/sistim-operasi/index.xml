@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sistim operasi on Oktrik</title>
+    <link>https://www.oktrik.com/tags/sistim-operasi/</link>
+    <description>Recent content in sistim operasi on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Mon, 30 Sep 2019 12:22:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/sistim-operasi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fitur Unggulan Sistem OS Android Versi Terbaru – Android Q</title>
+      <link>https://www.oktrik.com/posts/fitur-unggulan-sistem/</link>
+      <pubDate>Mon, 30 Sep 2019 12:22:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/fitur-unggulan-sistem/</guid>
+      <description>Google Secara resmi mengumumkan nama terbaru untuk sistem android terbaru yang menjadi generasi selanjutnya dari Android 9.0 Pie. Namun, kali ini google tidak lagi menggunakan nama-nama dessert atau makanan manis, seperti sebelum-belum nya. Kali ini, google memberi title nama OS Android nya dengan Android 10. Google telah mengumumkan bahwa Android 10 akan tersedia mulai 22 September 2019.&#xA;Android 10 hadir dengan beberapa fitur baru yang akan membuat pengguna lebih nyaman dan menyenangkan.</description>
+    </item>
+    <item>
+      <title>Distro linux paling ringan Yang Bisa Anda Coba Tanpa Perlu Di install</title>
+      <link>https://www.oktrik.com/posts/distro-linux-paling/</link>
+      <pubDate>Sat, 21 Jul 2018 15:13:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/distro-linux-paling/</guid>
+      <description>Anda mungkin ingin masuk ke dalam dunia Linux, tetapi merasa tidak mempunyai resource dan waktu untuk menginstalasi operacting system yang sepenuhnya baru. Secara singkat, kita akan melihat konsep booting Linux secara langsung dari CD dan juga beberapa distro linux paling ringan yang di rancang sangat spesifik.&#xA;Jadi anda ingin mencoba distribusi linux untuk satu alasan atau yang lain, tetapi tidak ingin menghabiskan waktu untuk menginstalasi ke harddisk hanya untuk mengetahui bahwa Linux sama sekali bukan untuk anda ?</description>
+    </item>
+    <item>
+      <title>Cara Install Linux Untuk Pemula [Mandrakelinux &amp; Ubuntu]</title>
+      <link>https://www.oktrik.com/posts/cara-install-linux/</link>
+      <pubDate>Thu, 19 Jul 2018 15:20:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-install-linux/</guid>
+      <description>Sekarang setelah [memilih distro Linux]({{ site.baseurl }}{% post_url 2018-07-21-distro-linux-paling-ringan-yang-bisa %}) yang ingin digunakan dan mempersiapkan segala sesuatunya, kita lanjutkan dengan melakukan proses instalasi linux itu sendiri. Dan langkah langkah cara instal linux akan kita bahas pada tulisan kali ini&#xA;Perbedaan distribusi Linux dan sistem operasi Linux Seperti yang Anda ketahui, sistem operasi linux adalah sistim operasi berbasis kernel open-source yang dapat digunakan secara gratis. sistem operasi linux digunakan oleh berbagai bahasa pemrogram, organisasi, bisnis nirlaba dan nirlaba di seluruh dunia untuk merancang sistem operasi yang memenuhi kebutuhan spesifik mereka.</description>
+    </item>
+    <item>
+      <title>Fungsi Bios Pada Perangkat Komputer (UEFI Dan BIOS)</title>
+      <link>https://www.oktrik.com/posts/fungsi-bios-pada/</link>
+      <pubDate>Thu, 30 Nov 2017 17:29:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/fungsi-bios-pada/</guid>
+      <description>Sering kali kita menemukan Istilah &amp;ldquo;BIOS&amp;rdquo; pada saat kita sedang mereparasi komputer, laptop atau pun saat kita sedang membaca artikel online di internet, Namun Apakah Bios itu. pengertian bios, kepanjangan bios, Kegunaan dan fungsi bios dalam komputer terkadang sebagian dari masyarakat tidak mengetahui apa itu bios sebenarnya yang dimaksud dengan Basic input output system?&#xA;Belum Lama ini Perusahaan Pengembang Prosesor Intel Mengumumkan Bahwa Penggunaan dan Support pendukung BIOS akan dimatikan pada tahun 2020 otomatis Setelah tahun tersebut tidak akan ada lagi komputer yang akan menggunakan basic input output system, dan Intel Pun mengumumkan bahwa BIOS (Basic Input Output System) pada tahun 2020 Akan digantikan oleh UEFI.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hdd on Oktrik</title>
+    <link>https://www.oktrik.com/tags/hdd/</link>
+    <description>Recent content in hdd on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Thu, 08 Dec 2022 15:28:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/hdd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu Bad Sector dan Bagaimana Cara Mengatasinya?</title>
+      <link>https://www.oktrik.com/posts/apa-itu-bad/</link>
+      <pubDate>Thu, 08 Dec 2022 15:28:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/apa-itu-bad/</guid>
+      <description>Bad sector adalah sektor pada disket, hard disk, atau media penyimpanan lainnya yang telah rusak atau rusak dan tidak dapat diakses. Ini berarti bahwa jika data disimpan di sektor yang rusak, itu tidak akan tersedia atau bisa dibaca. Bad sector seringkali disebabkan oleh keausan fisik, kerusakan akibat arus listrik, atau kerusakan akibat virus. Pengguna harus melakukan pemindaian untuk mendeteksi sektor buruk dan memperbaikinya untuk mencegah kerusakan data lebih lanjut.&#xA;Pendahuluan Bad sector merupakan sektor pada media penyimpanan data seperti harddisk yang terinfeksi oleh virus atau rusak, sehingga menyebabkan data di sektor tersebut tidak dapat diakses atau bahkan hilang.</description>
+    </item>
+  </channel>
+</rss>

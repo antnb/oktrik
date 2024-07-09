@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rank on Oktrik</title>
+    <link>https://www.oktrik.com/tags/rank/</link>
+    <description>Recent content in rank on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Tue, 12 Dec 2017 16:43:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/rank/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Menggunakan Formula RANK Dalam Microsoft Excel</title>
+      <link>https://www.oktrik.com/posts/cara-menggunakan-formula/</link>
+      <pubDate>Tue, 12 Dec 2017 16:43:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/cara-menggunakan-formula/</guid>
+      <description>Bagi Yang berkerja menyusun data mungkin sudah tidak asing lagi dengan istilah RANK dalam Microsoft Excel. RANK Berfungsi sebagai Formula untuk menentukan&#xA;Posisi relative atau susunan nilai dalam suatu blok berisi data dan melakukan perbandingan terhadap nilai yang sama. Yang artinya anda tidak perlu lagi melakukan sortir data berdasrkan nilai besaran (tinggi atau rendah)untuk menentukan RELATIVE RANKINGS dari suatu nilai&#xA;RELATIVE RANKINGS Sebagai contoh Dalam gambar berikut dibawah ini, Nilai Data penjualan diurutkan atau disortir dalam kolom PRODUCT.</description>
+    </item>
+  </channel>
+</rss>

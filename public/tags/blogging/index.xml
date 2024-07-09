@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogging on Oktrik</title>
+    <link>https://www.oktrik.com/tags/blogging/</link>
+    <description>Recent content in blogging on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Fri, 12 May 2023 05:55:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengapa Impor Konten XML ke Blogspot Gagal dan Bagaimana Memperbaikinya</title>
+      <link>https://www.oktrik.com/posts/mengapa-impor-konten/</link>
+      <pubDate>Fri, 12 May 2023 05:55:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/mengapa-impor-konten/</guid>
+      <description>Jika Anda merupakan seorang blogger yang aktif di Blogspot, Anda mungkin pernah mengalami masalah saat melakukan impor konten. Fitur impor memungkinkan pengguna untuk memindahkan konten dari platform lain ke Blogspot dengan mudah, namun terdapat batasan pada fitur ini. Salah satunya adalah masalah &amp;ldquo;Sorry, but you have exceeded the maximum number of imports&amp;rdquo;, yang seringkali dialami oleh pengguna.&#xA;Pada artikel ini, kami akan membahas penyebab dari masalah ini serta memberikan solusi untuk mengatasi masalah tersebut.</description>
+    </item>
+  </channel>
+</rss>

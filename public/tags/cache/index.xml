@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cache on Oktrik</title>
+    <link>https://www.oktrik.com/tags/cache/</link>
+    <description>Recent content in cache on Oktrik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Wed, 14 Dec 2022 15:25:00 +0700</lastBuildDate>
+    <atom:link href="https://www.oktrik.com/tags/cache/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengenal Manfaat Cache dan Bagaimana Cara Membersihkan browser Cache</title>
+      <link>https://www.oktrik.com/posts/mengenal-manfaat-cache/</link>
+      <pubDate>Wed, 14 Dec 2022 15:25:00 +0700</pubDate>
+      <guid>https://www.oktrik.com/posts/mengenal-manfaat-cache/</guid>
+      <description>Cache dan cookies adalah dua teknologi yang digunakan oleh browser web untuk menyimpan informasi di komputer pengguna. Cache menyimpan informasi yang telah Anda gunakan, sehingga Anda dapat mengaksesnya dengan lebih cepat. Cookies disimpan di browser Anda dan memungkinkan situs web untuk menyimpan informasi tertentu tentang Anda. Ini dapat digunakan untuk menyimpan informasi login, preferensi situs web, dan banyak lagi. Cache dan cookies memungkinkan pengalaman browsing yang lebih cepat dan lebih mudah.</description>
+    </item>
+  </channel>
+</rss>
