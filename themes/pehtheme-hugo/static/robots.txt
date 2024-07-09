@@ -1,4 +1,5 @@
 User-Agent: *
 Disallow: /laman/*
+Disallow: /tags/*
 
 Sitemap: https://www.oktrik.com/petas.xml
