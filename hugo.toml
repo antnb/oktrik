@@ -34,7 +34,9 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 [author]
 name = "rosari j"
 bio = """
-rosari j is a versatile writer who covers a wide range of topics and subjects. With a passion for sharing knowledge and insights, rosari j writes about everything from technology and personal development to lifestyle and entertainment. rosari j goal is to engage and inform readers with well-researched and thought-provoking content.
+Rosari J adalah seorang penulis teknologi di oktrik.com yang bersemangat untuk berbagi pengetahuan dan wawasannya tentang dunia digital. Dengan pengalaman bertahun-tahun dalam bidang ini, dia memiliki keahlian dalam perangkat lunak, perangkat keras, dan internet, serta berkomitmen untuk memberikan konten teknologi berkualitas tinggi dan relevan kepada para pembaca. Visi Rosari adalah menjadikan oktrik.com sebagai sumber informasi teknologi terdepan di Indonesia.
+
+Temui Rosari J di media sosial:
 """
 avatar = "/images/avatar.jpg"
 twitter = "https://twitter.com/insertapps"
