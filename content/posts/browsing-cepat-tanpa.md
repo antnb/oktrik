@@ -6,6 +6,7 @@ author: rosari J
 date: 2017-10-19T18:35:00.001+07:00
 lastmod: 2023-11-22
 categories: [teknologi, internet, tutorial]
+image: /images/3094340.jpg
 tags: [kecepatan, browsing, optimasi, internet, tips, trik, perangkat, browser, koneksi]
 blogger_id: tag:blogger.com,1999:blog-7329298365997944344.post-4616709756528157709
 blogger_orig_url: https://www.oktrik.com/2017/10/browsing-cepat-tanpa-loading.html
